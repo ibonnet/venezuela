@@ -1,9 +1,9 @@
 /* global d3 */
 
 // set the dimensions and margins of the graph
-var margin = {top: 10, right: 30, bottom: 40, left: 100},
-    width = 460 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+var margin = {top: 10, right: 20, bottom: 30, left: 50},
+    width = 500 - margin.left - margin.right,
+    height = 420 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#venezuelanhospitals-oct22")
@@ -14,48 +14,40 @@ var svg = d3.select("#venezuelanhospitals-oct22")
     .attr("transform",
           "translate(" + margin.left + "," + margin.top + ")");
 
-// Parse the Data
+//Read the data
 d3.csv("venezuelanhospitals-oct22.csv", function(data) {
 
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([0, 50])
-    .range([ 0, width]);
+    .domain([height])
+    .range([ 0, width ]);
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
-    .call(d3.axisBottom(x))
-    .selectAll("text")
-      .attr("transform", "translate(-10,0)rotate(-45)")
-      .style("text-anchor", "end");
+    .call(d3.axisBottom(x));
 
-// Y axis
-var y = d3.scaleBand()
-  .range([ 1, height ])
-  .domain(data.map(function(d) { return d.Date; }))
-  .padding(1);
-svg.append("g")
-  .call(d3.axisLeft(y))
+  // Add Y axis
+  var y = d3.scaleLinear()
+    .domain([0, 50])
+    .range([ height, 0]);
+  svg.append("g")
+    .call(d3.axisLeft(y));
 
+  // Add a scale for bubble size
+  var z = d3.scaleLinear()
+    .domain([0, 1])
+    .range([ 0, 10]);
 
-// Lines
-svg.selectAll("myline")
-  .data(data)
-  .enter()
-  .append("line")
-    .attr("x1", function(d) { return x(d.DeathsDuringPowerOutages); })
-    .attr("x2", x(0))
-    .attr("y1", function(d) { return y(d.Date); })
-    .attr("y2", function(d) { return y(d.Date); })
-    .attr("stroke", "grey")
+  // Add dots
+  svg.append('g')
+    .selectAll("dot")
+    .data(data)
+    .enter()
+    .append("circle")
+      .attr("cx", function (d) { return x(d.Date); } )
+      .attr("cy", function (d) { return y(d.DeathsDuringPowerOutages); } )
+      .attr("r", function (d) { return z(d.PowerOutagesDurationMin); } )
+      .style("fill", "#69b3a2")
+      .style("opacity", "0.7")
+      .attr("stroke", "black")
 
-// Circles
-svg.selectAll("mycircle")
-  .data(data)
-  .enter()
-  .append("circle")
-    .attr("cx", function(d) { return x(d.DeathsDuringPowerOutages); })
-    .attr("cy", function(d) { return y(d.Date); })
-    .attr("r", "4")
-    .style("fill", "#1F5559")
-    .attr("stroke", "black")
 })
