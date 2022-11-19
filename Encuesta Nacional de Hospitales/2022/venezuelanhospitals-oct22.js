@@ -19,7 +19,7 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
 
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([0, height])
+    .domain([0, width])
     .range([ 0, width ]);
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
