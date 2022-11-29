@@ -136,35 +136,35 @@ svg.append("text")
     .attr("text-anchor", "end")
     .attr("x", margin.left+60)
     .attr("y", height + margin.top + 10)
-    .text("May");
+    .text("June");
 
 // Add July axis label:
 svg.append("text")
     .attr("text-anchor", "end")
     .attr("x", margin.left+70)
     .attr("y", height + margin.top + 10)
-    .text("May");
+    .text("July");
 
 // Add Aug axis label:
 svg.append("text")
     .attr("text-anchor", "end")
     .attr("x", margin.left+80)
     .attr("y", height + margin.top + 10)
-    .text("May");
+    .text("Aug");
 
 // Add Sept axis label:
 svg.append("text")
     .attr("text-anchor", "end")
     .attr("x", margin.left+90)
     .attr("y", height + margin.top + 10)
-    .text("May");
+    .text("Sept");
 
 // Add Oct axis label:
 svg.append("text")
     .attr("text-anchor", "end")
     .attr("x", margin.left+100)
     .attr("y", height + margin.top + 10)
-    .text("May");
+    .text("Oct");
 
 svg
   .style("font-size", 12)
