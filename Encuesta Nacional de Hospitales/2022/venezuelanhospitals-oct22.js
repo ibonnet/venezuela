@@ -93,7 +93,7 @@ svg.append("text")
     .attr("transform", "rotate(-90)")
     .attr("y", -margin.left+20)
     .attr("x", -margin.top)
-    .text("Duration of power outage (hours)")
+    .text("Duration of power outage (minutes)")
 
   
 svg
