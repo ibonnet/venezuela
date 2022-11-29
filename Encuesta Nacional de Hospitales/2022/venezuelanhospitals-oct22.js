@@ -35,7 +35,7 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
   // Add a scale for bubble size
   var z = d3.scaleLinear()
     .domain([0, 50])
-    .range([ 0, 1]);
+    .range([ 0, 20]);
 
   // Add dots
   svg.append('g')
