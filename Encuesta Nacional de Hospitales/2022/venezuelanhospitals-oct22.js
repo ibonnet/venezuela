@@ -86,7 +86,7 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
       .attr("r", function (d) { return z(d.DeathsDuringPowerOutages); } )
       .style("fill", "#2F7379")
       .style("opacity", "0.7")
-      .attr("stroke", "black")
+      .attr("stroke", "#12014B")
 
 // Y axis label:
 svg.append("text")
