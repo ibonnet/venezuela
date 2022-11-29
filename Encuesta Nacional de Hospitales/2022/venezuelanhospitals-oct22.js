@@ -27,7 +27,7 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
 
   // Add Y axis
   var y = d3.scaleLinear()
-    .domain([0, 1.5])
+    .domain([0, 1.4])
     .range([ height, 0]);
   svg.append("g")
     .call(d3.axisLeft(y));
@@ -54,9 +54,9 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
 
   // A function that change this tooltip when the user hover a point.
   // Its opacity is set to 1: we can now see it. Plus it set the text and position of tooltip depending on the datapoint (d)
-  var mouseover = function(d) {
+  function mouseover(d) {
     tooltip
-      .style("opacity", 1)
+      .style("opacity", 1);
   }
   var mousemove = function(d) {
     tooltip
