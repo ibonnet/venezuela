@@ -19,8 +19,8 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
 
   // Add X axis
   var x = d3.scaleBand()
-    .domain([ "Jan", "Feb", "Mar", "April", "May", "June", "July", "Aug", "Sept", "Oct" ])
-    .range([ 1, 10]);
+    .domain(data.map(function(d) { return d.Month; }))
+    .range([ 0, width]);
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
     .call(d3.axisBottom(x));
