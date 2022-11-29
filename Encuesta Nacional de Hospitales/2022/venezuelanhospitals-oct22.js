@@ -81,7 +81,7 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
     .enter()
     .append("circle")
       .attr("cx", function (d) { return x(d.Month); } )  
-      .attr("cy", function (d) { return y(d.PowerOutagesDurationMin) + 'min'; } )
+      .attr("cy", function (d) { return y((d.PowerOutagesDurationMin) + 'min' ); } )
       .attr("r", function (d) { return z(d.DeathsDuringPowerOutages); } )
       .style("fill", "#2F7379")
       .style("opacity", "0.7")
