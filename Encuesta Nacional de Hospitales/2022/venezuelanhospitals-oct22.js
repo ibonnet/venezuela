@@ -21,14 +21,13 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
   var x = d3.scaleLinear()
     .domain([1,10])
     .range([ 0, width]);
+    // Customize tick labels
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
     .call(d3.axisBottom(x));
-
-// Customize tick labels
-let tickLabels = ['Jan','Feb','March','April','May','June','July','Aug','Sept','Aug','Sept','Oct'];
-xAxisGenerator.tickFormat((d,i) => tickLabels[i]);
-
+    .tickValues([1,2,3,4,5,6,7,8,9,10]);
+    .tickFormat((d, i) => ['Jan', 'Feb', 'March', 'April', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct'][i]);
+ 
 
   // Add Y axis
   var y = d3.scaleLinear()
@@ -101,6 +100,7 @@ svg.append("text")
     .attr("x", -margin.top)
     .text("Duration of power outage (hours)")
 
+  
 svg
   .style("font-size", 11)
 
