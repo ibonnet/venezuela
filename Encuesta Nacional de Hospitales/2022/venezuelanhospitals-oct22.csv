@@ -1,8 +1,8 @@
 Date,Emergencysupplyshortages,DeathsDuringPowerOutages,PowerOutagesDurationSeconds,PowerOutagesDurationMin
-January,47.2,0,45,0.75
-February,46,49,54,0.90
-March,48.7,11,41,0.68
-April,45.7,17,52,0.87
+1,47.2,0,45,0.75
+2,46,49,54,0.90
+3,48.7,11,41,0.68
+4,45.7,17,52,0.87
 May,44.3,39,76,1.26
 June,45.9,19,58,0.96
 July,45.3,14,52,0.87
