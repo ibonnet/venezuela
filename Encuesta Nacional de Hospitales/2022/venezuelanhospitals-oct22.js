@@ -99,7 +99,7 @@ svg.append("text")
 // Add January axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+10)
+    .attr("x", margin.left-50)
     .attr("y", height + margin.top + 10)
     .text("Jan");
 
@@ -113,7 +113,7 @@ svg.append("text")
 // Add March axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+30)
+    .attr("x", margin.left+70)
     .attr("y", height + margin.top + 10)
     .text("March");
 
