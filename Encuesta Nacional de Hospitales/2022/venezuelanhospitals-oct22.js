@@ -22,10 +22,18 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
     .domain([1,10])
     .range([ 0, width]);
     // Customize tick labels
-  svg.append("g")
-    .attr("transform", "translate(0," + height + ")")
-    .call(d3.axisBottom(x));
-
+  var xAxis = d3.svg.axis()
+    .scale(xScale)
+    .orient("bottom")
+    .tickValues(['Jan', 'Feb', 'March', 'April', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct'][i]) 
+    .tickFormat(d3.format("d,h")); // custom formatting
+    dataRegion.append("g")                                 // We add it to an SVG group
+    .classed("xAxis", true)                             // Class it for styling later on
+    .attr("transform", "translate(0, " + height +")")   // Move to bottom of chart instead of top
+    .call(xAxis);                                       // Draw!
+    // svg.append("g")
+    // .attr("transform", "translate(0," + height + ")")
+    // .call(d3.axisBottom(x));
 
   // Add Y axis
   var y = d3.scaleLinear()
