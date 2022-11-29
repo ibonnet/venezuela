@@ -21,12 +21,13 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
   var x = d3.scaleLinear()
     .domain([0,10])
     .range([ 1, width]);
-    // Customize tick labels
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
     .call(d3.axisBottom(x));
 
-
+    .tickValues([1,2,3,4,5,6,7,8,9,10])
+    .tickFormat((d, i) => ['Jan', 'Feb', 'March', 'April', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct'][i]);
+    
   // Add Y axis
   var y = d3.scaleLinear()
     .domain([0.5, 1.5])
