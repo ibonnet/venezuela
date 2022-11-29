@@ -167,7 +167,7 @@ svg.append("text")
     .text("Oct");
 
 svg
-  .style("font-size", 12)
+  .style("font-size", 11)
 
 
 
