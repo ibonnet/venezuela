@@ -1,4 +1,4 @@
-Month,Emergencysupplyshortages,DeathsDuringPowerOutages,PowerOutagesDurationSeconds,PowerOutagesDurationMin
+Month,Emergencysupplyshortages,DeathsDuringPowerOutages,PowerOutagesDurationMin,PowerOutagesDurationHours
 1,47.2,0,45,0.75
 2,46,49,54,0.90
 3,48.7,11,41,0.68
