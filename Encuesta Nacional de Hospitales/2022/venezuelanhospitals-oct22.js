@@ -99,70 +99,70 @@ svg.append("text")
 // Add January axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left-50)
+    .attr("x", margin.left-40)
     .attr("y", height + margin.top + 10)
     .text("Jan");
 
 // Add Feb axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+20)
+    .attr("x", margin.left+10)
     .attr("y", height + margin.top + 10)
     .text("Feb");
 
 // Add March axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+70)
+    .attr("x", margin.left+40)
     .attr("y", height + margin.top + 10)
     .text("March");
 
 // Add April axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+40)
+    .attr("x", margin.left+60)
     .attr("y", height + margin.top + 10)
     .text("April");
 
 // Add May axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+50)
+    .attr("x", margin.left+80)
     .attr("y", height + margin.top + 10)
     .text("May");
 
 // Add June axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+60)
+    .attr("x", margin.left+90)
     .attr("y", height + margin.top + 10)
     .text("June");
 
 // Add July axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+70)
+    .attr("x", margin.left+100)
     .attr("y", height + margin.top + 10)
     .text("July");
 
 // Add Aug axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+80)
+    .attr("x", margin.left+120)
     .attr("y", height + margin.top + 10)
     .text("Aug");
 
 // Add Sept axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+90)
+    .attr("x", margin.left+130)
     .attr("y", height + margin.top + 10)
     .text("Sept");
 
 // Add Oct axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+100)
+    .attr("x", margin.left+150)
     .attr("y", height + margin.top + 10)
     .text("Oct");
 
