@@ -19,8 +19,8 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
 
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([ 1,10])
-    .range([ 1, width]);
+    .domain([ "Jan","Feb","Mar","April","May","June","July","Aug","Sept","Oct"])
+    .range([ 1, 10]);
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
     .call(d3.axisBottom(x));
@@ -49,5 +49,20 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
       .style("fill", "#2F7379")
       .style("opacity", "0.7")
       .attr("stroke", "black")
+
+// Add X axis label:
+svg.append("text")
+    .attr("text-anchor", "end")
+    .attr("x", width)
+    .attr("y", height + margin.top + 20)
+    .text("Month");
+
+// Y axis label:
+svg.append("text")
+    .attr("text-anchor", "end")
+    .attr("transform", "rotate(-90)")
+    .attr("y", -margin.left+20)
+    .attr("x", -margin.top)
+    .text("Duration of power outage (hours)")
 
 })
