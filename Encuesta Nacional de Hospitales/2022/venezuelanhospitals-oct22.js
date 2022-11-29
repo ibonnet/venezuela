@@ -120,42 +120,42 @@ svg.append("text")
 // Add April axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+110)
+    .attr("x", margin.left+105)
     .attr("y", height + margin.top + 10)
     .text("April");
 
 // Add May axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+160)
+    .attr("x", margin.left+155)
     .attr("y", height + margin.top + 10)
     .text("May");
 
 // Add June axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+210)
+    .attr("x", margin.left+205)
     .attr("y", height + margin.top + 10)
     .text("June");
 
 // Add July axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+260)
+    .attr("x", margin.left+250)
     .attr("y", height + margin.top + 10)
     .text("July");
 
 // Add Aug axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+310)
+    .attr("x", margin.left+300)
     .attr("y", height + margin.top + 10)
     .text("Aug");
 
 // Add Sept axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+360)
+    .attr("x", margin.left+350)
     .attr("y", height + margin.top + 10)
     .text("Sept");
 
