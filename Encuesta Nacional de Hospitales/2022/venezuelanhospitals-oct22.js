@@ -27,7 +27,7 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
 
   // Add Y axis
   var y = d3.scaleLinear()
-    .domain([0, 2])
+    .domain([0, 1.5])
     .range([ height, 0]);
   svg.append("g")
     .call(d3.axisLeft(y));
