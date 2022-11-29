@@ -162,7 +162,7 @@ svg.append("text")
 // Add Oct axis label:
 svg.append("text")
     .attr("text-anchor", "end")
-    .attr("x", margin.left+150)
+    .attr("x", margin.left+300)
     .attr("y", height + margin.top + 10)
     .text("Oct");
 
