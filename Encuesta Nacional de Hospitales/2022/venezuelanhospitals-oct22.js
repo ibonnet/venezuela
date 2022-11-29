@@ -96,4 +96,12 @@ svg.append("text")
     .attr("x", -margin.top)
     .text("Duration of power outage (hours)")
 
+// Add January axis label:
+svg.append("text")
+    .attr("text-anchor", "end")
+    .attr("x", margin.left+30)
+    .attr("y", height + margin.top + 20)
+    .text("Jan");
+
+
 })
