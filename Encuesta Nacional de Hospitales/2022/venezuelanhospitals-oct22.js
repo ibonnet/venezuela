@@ -21,7 +21,6 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
   var x = d3.scaleLinear()
     .domain([0,10])
     .range([ 1, width]);
-    .ticks(10)
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
     .call(d3.axisBottom(x));
