@@ -22,7 +22,6 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
     .domain([1,10])
     .range([ 0, width]);
     // Customize tick labels
-  var xAxis = d3.svg.axis()
     .scale(xScale)
     .orient("bottom")
   svg.append("g")
