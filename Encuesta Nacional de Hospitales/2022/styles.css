@@ -77,3 +77,23 @@ circle:hover {
 #dot:hover {
     opacity: 1;
 }
+
+/* mouse over link */
+a:hover {
+    opacity: .5;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+  }
+
+/* visited link */
+a:visited {
+    opacity: .8;
+  }
+
+/* selected link */
+a:active {
+    color: rgba(11, 11, 170, 0.785);
+  }
