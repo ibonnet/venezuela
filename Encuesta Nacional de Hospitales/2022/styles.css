@@ -74,8 +74,9 @@ circle:hover {
     margin-left: 350px;
 }
 
-.dot:hover {
-    opacity: 1;
+.source {
+    font-style: italic;
+    font-size: 10px;
 }
 
 /* mouse over link */
