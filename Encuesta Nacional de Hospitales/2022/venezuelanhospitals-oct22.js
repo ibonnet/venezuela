@@ -166,6 +166,9 @@ svg.append("text")
     .attr("y", height + margin.top + 10)
     .text("May");
 
+svg
+  .style("font-size", 12)
+
 
 
   
