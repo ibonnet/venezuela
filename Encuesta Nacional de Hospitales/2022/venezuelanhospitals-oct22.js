@@ -20,7 +20,7 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
   // Add X axis
   var x = d3.scaleLinear()
     .domain([ 1,10])
-    .range([ width, 0 ]);
+    .range([ 1, width ]);
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
     .call(d3.axisBottom(x));
@@ -43,7 +43,6 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
     .data(data)
     .enter()
     .append("circle")
-      .attr("cx", function (d) { return x(d.Month); } )
       .attr("cy", function (d) { return y(d.DeathsDuringPowerOutages); } )
       .attr("r", function (d) { return z(d.PowerOutagesDurationMin); } )
       .style("fill", "#69b3a2")
