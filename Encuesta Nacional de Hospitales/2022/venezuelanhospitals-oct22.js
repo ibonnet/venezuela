@@ -27,15 +27,15 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
 
   // Add Y axis
   var y = d3.scaleLinear()
-    .domain([0, 50])
-    .range([ height, 0]);
+    .domain([0, 1])
+    .range([ 0, 10]);
   svg.append("g")
     .call(d3.axisLeft(y));
 
   // Add a scale for bubble size
   var z = d3.scaleLinear()
-    .domain([0, 1])
-    .range([ 0, 10]);
+    .domain([0, 50])
+    .range([ height, 0]);
 
   // Add dots
   svg.append('g')
@@ -44,8 +44,8 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
     .enter()
     .append("circle")
       .attr("cx", function (d) { return x(d.Month); } )  
-      .attr("cy", function (d) { return y(d.DeathsDuringPowerOutages); } )
-      .attr("r", function (d) { return z(d.PowerOutagesDurationMin); } )
+      .attr("cy", function (d) { return y(d.PowerOutagesDurationMin); } )
+      .attr("r", function (d) { return z(d.DeathsDuringPowerOutages); } )
       .style("fill", "#2F7379")
       .style("opacity", "0.7")
       .attr("stroke", "black")
