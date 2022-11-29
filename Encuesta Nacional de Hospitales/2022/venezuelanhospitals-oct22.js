@@ -25,9 +25,14 @@ d3.csv("venezuelanhospitals-oct22.csv", function(data) {
     .attr("transform", "translate(0," + height + ")")
     .call(d3.axisBottom(x));
 
+// Customize tick labels
+let tickLabels = ['Jan','Feb','March','April','May','June','July','Aug','Sept','Aug','Sept','Oct'];
+xAxisGenerator.tickFormat((d,i) => tickLabels[i]);
+
+
   // Add Y axis
   var y = d3.scaleLinear()
-    .domain([0, 1.4])
+    .domain([0.5, 1.5])
     .range([ height, 0]);
   svg.append("g")
     .call(d3.axisLeft(y));
@@ -95,76 +100,6 @@ svg.append("text")
     .attr("y", -margin.left+20)
     .attr("x", -margin.top)
     .text("Duration of power outage (hours)")
-
-// Add January axis label:
-svg.append("text")
-    .attr("text-anchor", "end")
-    .attr("x", margin.left-40)
-    .attr("y", height + margin.top + 10)
-    .text("Jan");
-
-// Add Feb axis label:
-svg.append("text")
-    .attr("text-anchor", "end")
-    .attr("x", margin.left+10)
-    .attr("y", height + margin.top + 10)
-    .text("Feb");
-
-// Add March axis label:
-svg.append("text")
-    .attr("text-anchor", "end")
-    .attr("x", margin.left+60)
-    .attr("y", height + margin.top + 10)
-    .text("March");
-
-// Add April axis label:
-svg.append("text")
-    .attr("text-anchor", "end")
-    .attr("x", margin.left+105)
-    .attr("y", height + margin.top + 10)
-    .text("April");
-
-// Add May axis label:
-svg.append("text")
-    .attr("text-anchor", "end")
-    .attr("x", margin.left+155)
-    .attr("y", height + margin.top + 10)
-    .text("May");
-
-// Add June axis label:
-svg.append("text")
-    .attr("text-anchor", "end")
-    .attr("x", margin.left+205)
-    .attr("y", height + margin.top + 10)
-    .text("June");
-
-// Add July axis label:
-svg.append("text")
-    .attr("text-anchor", "end")
-    .attr("x", margin.left+250)
-    .attr("y", height + margin.top + 10)
-    .text("July");
-
-// Add Aug axis label:
-svg.append("text")
-    .attr("text-anchor", "end")
-    .attr("x", margin.left+300)
-    .attr("y", height + margin.top + 10)
-    .text("Aug");
-
-// Add Sept axis label:
-svg.append("text")
-    .attr("text-anchor", "end")
-    .attr("x", margin.left+350)
-    .attr("y", height + margin.top + 10)
-    .text("Sept");
-
-// Add Oct axis label:
-svg.append("text")
-    .attr("text-anchor", "end")
-    .attr("x", margin.left+410)
-    .attr("y", height + margin.top + 10)
-    .text("Oct");
 
 svg
   .style("font-size", 11)
