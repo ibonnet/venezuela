@@ -1,11 +1,11 @@
 # Universities in Venezuela
 
-<li>Central de Venezuela (UCV)</li>
-<li>Universidad de Los Andes (ULA)</li>
-<li>Universidad del Zulia (LUZ)</li>
-<li>Universidad de Carabobo (UC)</li>
-<li>Universidad de Oriente (UDO)</li>
-<li>Universidad Centroccidental Lisandro Alvarado (UCLA)</li>
-<li>Universidad Rómulo Gallegos (UNERG)</li>
-<li>Universidad Francisco de Miranda (UNEFM)</li>
-<li>Universidad de Ciencias de la Salud Hugo Chávez (UCS)</li>
+<li><link rel="Central de Venezuela (UCV)" href="https://github.com/ibonnet/venezuela/tree/main/universidades/UCV"></li>
+<li><link rel="Universidad de Los Andes (ULA)" href="https://github.com/ibonnet/venezuela/tree/main/universidades/ULA"></li>
+<li><link rel="Universidad del Zulia (LUZ)" href="https://github.com/ibonnet/venezuela/tree/main/universidades/LUZ"></li>
+<li><link rel="Universidad de Carabobo (UC)" href="https://github.com/ibonnet/venezuela/tree/main/universidades/UC"></li>
+<li><link rel="Universidad de Oriente (UDO)" href="https://github.com/ibonnet/venezuela/tree/main/universidades/UDO"></li>
+<li><link rel="Universidad Centroccidental Lisandro Alvarado (UCLA)" href="https://github.com/ibonnet/venezuela/tree/main/universidades/UCLA"></li>
+<li><link rel="Universidad Rómulo Gallegos (UNERG)" href="https://github.com/ibonnet/venezuela/tree/main/universidades/UNERG"></li>
+<li><link rel="Universidad Francisco de Miranda (UNEFM)" href="https://github.com/ibonnet/venezuela/tree/main/universidades/UNEFM"></li>
+<li><link rel="Universidad de Ciencias de la Salud Hugo Chávez (UCS)" href="https://github.com/ibonnet/venezuela/tree/main/universidades/UCS"></li>
