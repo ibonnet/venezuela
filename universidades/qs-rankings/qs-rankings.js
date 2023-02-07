@@ -49,8 +49,8 @@
     // color palette
     var res = sumstat.map(function(d){ return d.key }) // list of group names
     var color = d3.scaleOrdinal()
-        .domain(["LUZ", "UCV","ULA" ])
-        .range([ "#539B14 ", "#FFC300", "#3592A1"])
+        .domain(["UCV","ULA" ])
+        .range(["#3B3C96", "#164A8F"])
 
   // create a tooltip
   var Tooltip = d3.select("#qs-rankings")
@@ -142,10 +142,10 @@
 
   // Legend
 // UCV
-graph.append("circle").attr("cx",500).attr("cy",25).attr("r", 5).style("fill", "#FFC300")
+graph.append("circle").attr("cx",500).attr("cy",25).attr("r", 5).style("fill", "#3B3C96")
 graph.append("text").attr("x", 510).attr("y", 25).text("UCV").style("font-size", "10px").attr("alignment-baseline","middle")
 // ULA
-graph.append("circle").attr("cx",500).attr("cy",40).attr("r", 5).style("fill", "#3592A1")
+graph.append("circle").attr("cx",500).attr("cy",40).attr("r", 5).style("fill", "#164A8F")
 graph.append("text").attr("x", 510).attr("y", 40).text("ULA").style("font-size", "10px").attr("alignment-baseline","middle")
 
 // Title
