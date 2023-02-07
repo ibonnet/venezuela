@@ -50,7 +50,7 @@
     var res = sumstat.map(function(d){ return d.key }) // list of group names
     var color = d3.scaleOrdinal()
         .domain(["UCV","ULA" ])
-        .range(["#3B3C96", "#164A8F"])
+        .range(["#3B3C96", "#B860CA"])
 
   // create a tooltip
   var Tooltip = d3.select("#qs-rankings")
@@ -132,20 +132,12 @@
   .on("mousemove", mousemove)
   .on("mouseleave", mouseleave)
 
-// ucab, #FF5733
-// ucv, #FFC300
-// usb, #581845
-// ula, #3592A1
-// luz,#539B14
-// uc, #D1657C
-// unimet, #A8260A
-
   // Legend
 // UCV
 graph.append("circle").attr("cx",500).attr("cy",25).attr("r", 5).style("fill", "#3B3C96")
 graph.append("text").attr("x", 510).attr("y", 25).text("UCV").style("font-size", "10px").attr("alignment-baseline","middle")
 // ULA
-graph.append("circle").attr("cx",500).attr("cy",40).attr("r", 5).style("fill", "#164A8F")
+graph.append("circle").attr("cx",500).attr("cy",40).attr("r", 5).style("fill", "#B860CA")
 graph.append("text").attr("x", 510).attr("y", 40).text("ULA").style("font-size", "10px").attr("alignment-baseline","middle")
 
 // Title
