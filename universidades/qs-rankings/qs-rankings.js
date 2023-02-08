@@ -22,9 +22,9 @@ graph.append("circle").attr("cx",528).attr("cy",40).attr("r", 5).style("fill", "
 graph.append("text").attr("x", 534).attr("y", 40).text("Universidad de Los Andes").style("font-size", "9px").attr("alignment-baseline","middle")
 
 // Title
-graph.append("text").attr("x", 220).attr("y", 408).text("Year").style("font-size", "13px").attr("alignment-baseline","middle").style("font-family", "georgia")
-graph.append("text").attr("x", 20).attr("y", -15).text("World Rankings of Venezuelan Universities since 2013").style("font-size", "16px").attr("alignment-baseline","middle").style("font-family", "georgia").style("font-weight","bold")
-graph.append("text").attr("x", -250).attr("y", -65).text("World University Rankings").style("font-size", "13px").attr("transform", "rotate(-90)").style("font-family", "georgia")
+graph.append("text").attr("x", 220).attr("y", 408).text("Year").style("font-size", "13px").attr("alignment-baseline","middle").style("font-family", "Vesterbro,Georgia,Times New Roman,Times,serif")
+graph.append("text").attr("x", 20).attr("y", -15).text("World Rankings of Venezuelan Universities since 2013").style("font-size", "16px").attr("alignment-baseline","middle").style("font-family", "Vesterbro,Georgia,Times New Roman,Times,serif").style("font-weight","bold")
+graph.append("text").attr("x", -250).attr("y", -65).text("World University Rankings").style("font-size", "13px").attr("transform", "rotate(-90)").style("font-family", "Vesterbro,Georgia,Times New Roman,Times,serif")
 
 // Y Axis
 graph.append("text").attr("x", -50).attr("y", 21).text("551-600").style("font-size", "10px").attr("alignment-baseline","middle")
@@ -33,9 +33,8 @@ graph.append("text").attr("x", -50).attr("y", 104).text("651-700").style("font-s
 graph.append("text").attr("x", -50).attr("y", 145).text("701-750").style("font-size", "10px").attr("alignment-baseline","middle")
 graph.append("text").attr("x", -52).attr("y", 186).text("751-800").style("font-size", "10px").attr("alignment-baseline","middle")
 graph.append("text").attr("x", -55).attr("y", 290).text("801-1000").style("font-size", "10px").attr("alignment-baseline","middle")
-
-graph.append("text").attr("x", 330).attr("y", 415).text("Source: QS World Rankings / Graph: Isabel Bonnet").style("font-size", "8px").attr("alignment-baseline","middle")
-
+// source
+graph.append("text").attr("x", 330).attr("y", 415).text("Source: QS World Rankings / Graph: Isabel Bonnet").style("font-size", "8px").attr("alignment-baseline","middle");
 // intervals rectangles
 graph.append("rect").attr("x",0).attr("y",0).attr("width",520).attr("height",41).style("fill", "#66A54C").style("opacity", ".13")
 graph.append("rect").attr("x",0).attr("y",41).attr("width",520).attr("height",41).style("fill", "#257070").style("opacity", ".13")
@@ -43,8 +42,12 @@ graph.append("rect").attr("x",0).attr("y",82).attr("width",520).attr("height",41
 graph.append("rect").attr("x",0).attr("y",123).attr("width",520).attr("height",41).style("fill", "#3B3C96").style("opacity", ".13")
 graph.append("rect").attr("x",0).attr("y",164).attr("width",520).attr("height",41).style("fill", "#391833C").style("opacity", ".13")
 graph.append("rect").attr("x",0).attr("y",205).attr("width",520).attr("height",165).style("fill", "#91483C").style("opacity", ".13")
-
-  //Read the data
+// dashed lines
+graph.append("line").style("stroke", "black").style("stroke-width",2).style("opacity", ".4").style("stroke-dasharray",4).attr("x1",52.5).attr("y1",370).attr("x2",52.5)
+graph.append("line").style("stroke", "black").style("stroke-width",2).style("opacity", ".4").style("stroke-dasharray",4).attr("x1",208.5).attr("y1",370).attr("x2",208.5)
+graph.append("text").attr("x", 56).attr("y", 350).text("National anti-government protests").style("font-size", "9px").attr("alignment-baseline","middle")
+graph.append("text").attr("x", 56).attr("y", 360).text("paralize Venezuelan universities").style("font-size", "9px").attr("alignment-baseline","middle")
+//Read the data
   d3.csv("qs-rankings.csv", function(data) {
   
     // group the data: I want to draw one line per group
