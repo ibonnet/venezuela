@@ -1,0 +1,2105 @@
+<table class="timetable">
+        <thead class="hidden-xs">
+            <tr>
+                <th>Scheduled</th>
+                <th>Date</th>
+                <th>Status</th>
+                <th>From</th>
+                <th>Airline</th>
+                <th>Flight</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:05</td>
+                        <td class="timetable-date">08 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-278?ts=1675834800000">V0278</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:15</td>
+                        <td class="timetable-date">08 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1675834200000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">08 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-1970?ts=1675845000000">QL1970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">08 February</td>
+                        <td class="timetable-status">Landed 13:56</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1675852200000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">08 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1675860000000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">08 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1675873800000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:24</td>
+                        <td class="timetable-date">09 February</td>
+                        <td class="timetable-status">Landed 12:49</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-328?ts=1675924380000">CM328</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">09 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1675940400000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">09 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1675946400000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">19:40</td>
+                        <td class="timetable-date">09 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Rutaca Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/5r-ruc-354?ts=1675958400000">5R354</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">09 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1675960200000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">11:35</td>
+                        <td class="timetable-date">10 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-282?ts=1676016600000">V0282</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">10 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1676017800000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">10 February</td>
+                        <td class="timetable-status">Landed 13:59</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1676025000000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">10 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1676026800000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">10 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676032800000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">10 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676046600000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">06:45</td>
+                        <td class="timetable-date">11 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1676084400000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:24</td>
+                        <td class="timetable-date">11 February</td>
+                        <td class="timetable-status">Landed 12:49</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-328?ts=1676097180000">CM328</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">11 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1676113200000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1676190600000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:20</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-284?ts=1676192100000">V0284</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Landed 13:58</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1676197800000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1676199600000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676205600000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676219400000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:05</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-278?ts=1676266800000">V0278</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:15</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1676266200000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1676277000000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:24</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Landed 12:46</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-328?ts=1676269980000">CM328</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Landed 14:00</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1676284200000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1676286000000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676292000000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676305800000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">06:45</td>
+                        <td class="timetable-date">14 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1676343600000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">11:35</td>
+                        <td class="timetable-date">14 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-282?ts=1676362200000">V0282</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">14 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/som/departures" title="San Tome SOM departures">San Tome SOM</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-2407?ts=1676371500000">V02407</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">14 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676378400000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">14 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676392200000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:05</td>
+                        <td class="timetable-date">15 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-278?ts=1676439600000">V0278</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:15</td>
+                        <td class="timetable-date">15 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1676439000000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">15 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-1970?ts=1676449800000">QL1970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">15 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1676457000000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">15 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676464800000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">15 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676478600000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:24</td>
+                        <td class="timetable-date">16 February</td>
+                        <td class="timetable-status">Landed 12:44</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-328?ts=1676529180000">CM328</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">16 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1676545200000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">16 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676551200000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">19:40</td>
+                        <td class="timetable-date">16 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Rutaca Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/5r-ruc-354?ts=1676563200000">5R354</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">16 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676565000000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">11:35</td>
+                        <td class="timetable-date">17 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-282?ts=1676621400000">V0282</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">17 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1676622600000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">17 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1676629800000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">17 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/som/departures" title="San Tome SOM departures">San Tome SOM</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-2407?ts=1676630700000">V02407</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">17 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676637600000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">17 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676651400000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">06:45</td>
+                        <td class="timetable-date">18 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1676689200000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:24</td>
+                        <td class="timetable-date">18 February</td>
+                        <td class="timetable-status">Landed 12:52</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-328?ts=1676701980000">CM328</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">18 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1676718000000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1676795400000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:20</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-284?ts=1676796900000">V0284</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1676802600000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1676804400000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676810400000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676824200000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:05</td>
+                        <td class="timetable-date">20 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-278?ts=1676871600000">V0278</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:15</td>
+                        <td class="timetable-date">20 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1676871000000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">20 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1676881800000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:24</td>
+                        <td class="timetable-date">20 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-328?ts=1676874780000">CM328</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">20 February</td>
+                        <td class="timetable-status">Landed 13:42</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1676889000000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">20 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1676890800000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">20 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676896800000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">20 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676910600000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">06:45</td>
+                        <td class="timetable-date">21 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1676948400000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">11:35</td>
+                        <td class="timetable-date">21 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-282?ts=1676967000000">V0282</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">21 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/som/departures" title="San Tome SOM departures">San Tome SOM</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-2407?ts=1676976300000">V02407</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">21 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676983200000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">21 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1676997000000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:05</td>
+                        <td class="timetable-date">22 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-278?ts=1677044400000">V0278</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:15</td>
+                        <td class="timetable-date">22 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1677043800000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">22 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-1970?ts=1677054600000">QL1970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">22 February</td>
+                        <td class="timetable-status">Landed 14:13</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1677061800000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">22 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677069600000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">22 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677083400000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:24</td>
+                        <td class="timetable-date">23 February</td>
+                        <td class="timetable-status">Landed 12:59</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-328?ts=1677133980000">CM328</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">23 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1677150000000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">23 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677156000000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">19:40</td>
+                        <td class="timetable-date">23 February</td>
+                        <td class="timetable-status">Landed 19:24</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Rutaca Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/5r-ruc-354?ts=1677168000000">5R354</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">23 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677169800000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">11:35</td>
+                        <td class="timetable-date">24 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-282?ts=1677226200000">V0282</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">24 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1677227400000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">24 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1677234600000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">24 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/som/departures" title="San Tome SOM departures">San Tome SOM</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-2407?ts=1677235500000">V02407</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">24 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677242400000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">24 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677256200000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">06:45</td>
+                        <td class="timetable-date">25 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1677294000000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:24</td>
+                        <td class="timetable-date">25 February</td>
+                        <td class="timetable-status">Landed 12:49</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-328?ts=1677306780000">CM328</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">25 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1677322800000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1677400200000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:20</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-284?ts=1677401700000">V0284</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1677407400000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1677409200000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677415200000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677429000000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:05</td>
+                        <td class="timetable-date">27 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-278?ts=1677476400000">V0278</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:15</td>
+                        <td class="timetable-date">27 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1677475800000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">27 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1677486600000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:24</td>
+                        <td class="timetable-date">27 February</td>
+                        <td class="timetable-status">Landed 12:49</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-328?ts=1677479580000">CM328</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">27 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1677493800000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">27 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1677495600000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">27 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677501600000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">27 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677515400000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">06:45</td>
+                        <td class="timetable-date">28 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1677553200000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">11:35</td>
+                        <td class="timetable-date">28 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-282?ts=1677571800000">V0282</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">28 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/som/departures" title="San Tome SOM departures">San Tome SOM</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-2407?ts=1677581100000">V02407</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">28 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677588000000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">28 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677601800000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:05</td>
+                        <td class="timetable-date">01 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-278?ts=1677649200000">V0278</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:15</td>
+                        <td class="timetable-date">01 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1677648600000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">01 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-1970?ts=1677659400000">QL1970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">01 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1677666600000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">01 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677674400000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">01 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677688200000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:35</td>
+                        <td class="timetable-date">02 March</td>
+                        <td class="timetable-status">Landed 12:48</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-328?ts=1677739440000">CM328</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">02 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1677754800000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">02 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677760800000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">19:40</td>
+                        <td class="timetable-date">02 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Rutaca Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/5r-ruc-354?ts=1677772800000">5R354</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">02 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677774600000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">11:35</td>
+                        <td class="timetable-date">03 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-282?ts=1677831000000">V0282</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">03 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1677832200000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">03 March</td>
+                        <td class="timetable-status">Landed 14:02</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1677839400000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">03 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/som/departures" title="San Tome SOM departures">San Tome SOM</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-2407?ts=1677840300000">V02407</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">03 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677847200000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">03 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1677861000000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">06:45</td>
+                        <td class="timetable-date">04 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1677898800000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:35</td>
+                        <td class="timetable-date">04 March</td>
+                        <td class="timetable-status">Landed 12:55</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-328?ts=1677912240000">CM328</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">04 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1677927600000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1678005000000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:20</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-284?ts=1678006500000">V0284</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Landed 13:56</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1678012200000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1678014000000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1678020000000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1678033800000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:05</td>
+                        <td class="timetable-date">06 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-278?ts=1678081200000">V0278</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:15</td>
+                        <td class="timetable-date">06 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1678080600000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">06 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1678091400000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:35</td>
+                        <td class="timetable-date">06 March</td>
+                        <td class="timetable-status">Landed 12:57</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-328?ts=1678085040000">CM328</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">06 March</td>
+                        <td class="timetable-status">Landed 13:59</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1678098600000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">06 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1678100400000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">06 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1678106400000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">06 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1678120200000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">06:45</td>
+                        <td class="timetable-date">07 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1678158000000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">11:35</td>
+                        <td class="timetable-date">07 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-282?ts=1678176600000">V0282</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">07 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/som/departures" title="San Tome SOM departures">San Tome SOM</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-2407?ts=1678185900000">V02407</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">07 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1678192800000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">07 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1678206600000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:05</td>
+                        <td class="timetable-date">08 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-278?ts=1678254000000">V0278</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">09:15</td>
+                        <td class="timetable-date">08 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-42?ts=1678253400000">9V42</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">12:15</td>
+                        <td class="timetable-date">08 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-1970?ts=1678264200000">QL1970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:15</td>
+                        <td class="timetable-date">08 March</td>
+                        <td class="timetable-status">Landed 14:47</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">LASER Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ql-ler-970?ts=1678271400000">QL970</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">08 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1678279200000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">08 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1678293000000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:35</td>
+                        <td class="timetable-date">09 March</td>
+                        <td class="timetable-status">Landed 13:10</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-328?ts=1678344240000">CM328</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:25</td>
+                        <td class="timetable-date">09 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-280?ts=1678359600000">V0280</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:25</td>
+                        <td class="timetable-date">09 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1678365600000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">19:40</td>
+                        <td class="timetable-date">09 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Rutaca Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/5r-ruc-354?ts=1678377600000">5R354</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">20:15</td>
+                        <td class="timetable-date">09 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-40?ts=1678379400000">9V40</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+                <tr><td colspan="6">No flights</td></tr>
+            
+            
+            
+        </tbody>
+    </table>
