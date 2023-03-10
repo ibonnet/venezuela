@@ -1,0 +1,575 @@
+<table class="timetable">
+        <thead class="hidden-xs">
+            <tr>
+                <th>Scheduled</th>
+                <th>Date</th>
+                <th>Status</th>
+                <th>From</th>
+                <th>Airline</th>
+                <th>Flight</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">05:45</td>
+                        <td class="timetable-date">09 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-78?ts=1675908000000">9V78</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:20</td>
+                        <td class="timetable-date">09 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-1078?ts=1675935000000">9V1078</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:45</td>
+                        <td class="timetable-date">10 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Kargo Xpress</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ww-kxp-1701?ts=1676037600000">WW1701</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">08:00</td>
+                        <td class="timetable-date">11 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-46?ts=1676088000000">V046</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">10:30</td>
+                        <td class="timetable-date">11 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-46?ts=1676097000000">V046</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">05:45</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-78?ts=1676167200000">9V78</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:00</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/hav/departures" title="Havana HAV departures">Havana HAV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-4927?ts=1676185200000">V04927</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:20</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-1078?ts=1676194200000">9V1078</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">15:10</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/hav/departures" title="Havana HAV departures">Havana HAV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-4927?ts=1676189400000">V04927</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">06:45</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-78?ts=1676257200000">9V78</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">08:45</td>
+                        <td class="timetable-date">14 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Kargo Xpress</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ww-kxp-1701?ts=1676350800000">WW1701</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:20</td>
+                        <td class="timetable-date">14 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-1078?ts=1676367000000">9V1078</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">05:45</td>
+                        <td class="timetable-date">16 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-78?ts=1676512800000">9V78</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:20</td>
+                        <td class="timetable-date">16 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-1078?ts=1676539800000">9V1078</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:45</td>
+                        <td class="timetable-date">17 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Kargo Xpress</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ww-kxp-1701?ts=1676642400000">WW1701</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">10:30</td>
+                        <td class="timetable-date">18 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-46?ts=1676701800000">V046</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">05:45</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-78?ts=1676772000000">9V78</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:20</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-1078?ts=1676799000000">9V1078</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:55</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/hav/departures" title="Havana HAV departures">Havana HAV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-4927?ts=1676794200000">V04927</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">06:45</td>
+                        <td class="timetable-date">20 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-78?ts=1676862000000">9V78</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">08:45</td>
+                        <td class="timetable-date">21 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Kargo Xpress</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ww-kxp-1701?ts=1676955600000">WW1701</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:20</td>
+                        <td class="timetable-date">21 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-1078?ts=1676971800000">9V1078</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">05:45</td>
+                        <td class="timetable-date">23 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-78?ts=1677117600000">9V78</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:20</td>
+                        <td class="timetable-date">23 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-1078?ts=1677144600000">9V1078</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:45</td>
+                        <td class="timetable-date">24 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Kargo Xpress</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ww-kxp-1701?ts=1677247200000">WW1701</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">10:30</td>
+                        <td class="timetable-date">25 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-46?ts=1677306600000">V046</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">05:45</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-78?ts=1677376800000">9V78</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:20</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-1078?ts=1677403800000">9V1078</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:55</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/hav/departures" title="Havana HAV departures">Havana HAV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-4927?ts=1677399000000">V04927</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">06:45</td>
+                        <td class="timetable-date">27 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-78?ts=1677466800000">9V78</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">08:45</td>
+                        <td class="timetable-date">28 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Kargo Xpress</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ww-kxp-1701?ts=1677560400000">WW1701</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:20</td>
+                        <td class="timetable-date">28 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-1078?ts=1677576600000">9V1078</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">05:45</td>
+                        <td class="timetable-date">02 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-78?ts=1677722400000">9V78</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:20</td>
+                        <td class="timetable-date">02 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-1078?ts=1677749400000">9V1078</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:45</td>
+                        <td class="timetable-date">03 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Kargo Xpress</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ww-kxp-1701?ts=1677852000000">WW1701</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">10:30</td>
+                        <td class="timetable-date">04 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-46?ts=1677911400000">V046</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">05:45</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-78?ts=1677981600000">9V78</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:20</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-1078?ts=1678008600000">9V1078</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:55</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/hav/departures" title="Havana HAV departures">Havana HAV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-4927?ts=1678003800000">V04927</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">06:45</td>
+                        <td class="timetable-date">06 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-78?ts=1678071600000">9V78</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">08:45</td>
+                        <td class="timetable-date">07 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Kargo Xpress</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/ww-kxp-1701?ts=1678165200000">WW1701</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:20</td>
+                        <td class="timetable-date">07 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-1078?ts=1678181400000">9V1078</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">05:45</td>
+                        <td class="timetable-date">09 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-78?ts=1678327200000">9V78</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:20</td>
+                        <td class="timetable-date">09 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/ccs/departures" title="Caracas CCS departures">Caracas CCS</a></td>
+                        <td class="timetable-airline">Avior</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/9v-roi-1078?ts=1678354200000">9V1078</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+                <tr><td colspan="6">No flights</td></tr>
+            
+            
+            
+        </tbody>
+    </table>
