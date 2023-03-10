@@ -1,0 +1,1583 @@
+<tbody>
+            
+            
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">11:50</td>
+                        <td class="timetable-date">08 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-350?ts=1675842600000">V0350</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">08 February</td>
+                        <td class="timetable-status">Landed 14:27</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1675845540000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">08 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-6401?ts=1675857600000">T96401</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">08 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-867?ts=1675857600000">T9867</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">08 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/std/departures" title="Santo Domingo STD departures">Santo Domingo STD</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-641?ts=1675863000000">T9641</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">08 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/std/departures" title="Santo Domingo STD departures">Santo Domingo STD</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-811?ts=1675863000000">T9811</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">09 February</td>
+                        <td class="timetable-status">Landed 14:42</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1675931940000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">09 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-314?ts=1675944000000">T9314</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">09 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-8609?ts=1675944000000">T98609</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">19:30</td>
+                        <td class="timetable-date">09 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-611?ts=1675956600000">T9611</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">19:30</td>
+                        <td class="timetable-date">09 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-821?ts=1675956600000">T9821</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">10 February</td>
+                        <td class="timetable-status">Landed 14:32</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1676018340000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">15:30</td>
+                        <td class="timetable-date">10 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-8609?ts=1676026800000">T98609</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">15:30</td>
+                        <td class="timetable-date">10 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-867?ts=1676026800000">T9867</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">11:50</td>
+                        <td class="timetable-date">11 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-350?ts=1676101800000">V0350</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:50</td>
+                        <td class="timetable-date">11 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-350?ts=1676112600000">V0350</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:00</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-821?ts=1676185200000">T9821</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Landed 14:30</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1676191140000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-611?ts=1676208600000">T9611</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-821?ts=1676208600000">T9821</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">18:30</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-314?ts=1676210400000">T9314</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">18:45</td>
+                        <td class="timetable-date">12 February</td>
+                        <td class="timetable-status">Landed 16:44</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-8609?ts=1676211300000">T98609</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">10:00</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Landed 09:52</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/mar/departures" title="Maracaibo MAR departures">Maracaibo MAR</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-621?ts=1676268000000">T9621</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">11:50</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-350?ts=1676274600000">V0350</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Landed 14:24</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1676277540000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:50</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-350?ts=1676285400000">V0350</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-6401?ts=1676289600000">T96401</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">13 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-867?ts=1676289600000">T9867</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:30</td>
+                        <td class="timetable-date">14 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pzo/departures" title="Puerto Ordaz PZO departures">Puerto Ordaz PZO</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-390?ts=1676359800000">V0390</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">14 February</td>
+                        <td class="timetable-status">Landed 14:33</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1676363940000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:50</td>
+                        <td class="timetable-date">14 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-352?ts=1676379000000">V0352</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">11:50</td>
+                        <td class="timetable-date">15 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-350?ts=1676447400000">V0350</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">15 February</td>
+                        <td class="timetable-status">Landed 14:37</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1676450340000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">15:40</td>
+                        <td class="timetable-date">15 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-350?ts=1676461200000">V0350</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">15 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-6401?ts=1676462400000">T96401</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">15 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-867?ts=1676462400000">T9867</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">15 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/std/departures" title="Santo Domingo STD departures">Santo Domingo STD</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-641?ts=1676467800000">T9641</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">15 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/std/departures" title="Santo Domingo STD departures">Santo Domingo STD</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-811?ts=1676467800000">T9811</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">16 February</td>
+                        <td class="timetable-status">Landed 14:40</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1676536740000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">16 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-314?ts=1676548800000">T9314</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">16 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-8609?ts=1676548800000">T98609</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">19:30</td>
+                        <td class="timetable-date">16 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-611?ts=1676561400000">T9611</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">19:30</td>
+                        <td class="timetable-date">16 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-821?ts=1676561400000">T9821</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">17 February</td>
+                        <td class="timetable-status">Landed 14:42</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1676623140000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">15:30</td>
+                        <td class="timetable-date">17 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-8609?ts=1676631600000">T98609</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">15:30</td>
+                        <td class="timetable-date">17 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-867?ts=1676631600000">T9867</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:50</td>
+                        <td class="timetable-date">18 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-352?ts=1676724600000">V0352</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:00</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Landed 12:47</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-821?ts=1676790000000">T9821</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Landed 14:41</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1676795940000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Landed 17:10</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-611?ts=1676813400000">T9611</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-821?ts=1676813400000">T9821</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">18:30</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-314?ts=1676815200000">T9314</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">18:45</td>
+                        <td class="timetable-date">19 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-8609?ts=1676816100000">T98609</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">10:00</td>
+                        <td class="timetable-date">20 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/mar/departures" title="Maracaibo MAR departures">Maracaibo MAR</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-621?ts=1676872800000">T9621</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">20 February</td>
+                        <td class="timetable-status">Landed 14:31</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1676882340000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">20 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-6401?ts=1676894400000">T96401</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">20 February</td>
+                        <td class="timetable-status">Landed 16:50</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-867?ts=1676894400000">T9867</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:30</td>
+                        <td class="timetable-date">21 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pzo/departures" title="Puerto Ordaz PZO departures">Puerto Ordaz PZO</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-390?ts=1676971800000">V0390</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">21 February</td>
+                        <td class="timetable-status">Landed 14:33</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1676968740000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:50</td>
+                        <td class="timetable-date">21 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-352?ts=1676983800000">V0352</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">22 February</td>
+                        <td class="timetable-status">Landed 14:41</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1677055140000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">15:40</td>
+                        <td class="timetable-date">22 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-350?ts=1677066000000">V0350</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">22 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-6401?ts=1677067200000">T96401</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">22 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-867?ts=1677067200000">T9867</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">22 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/std/departures" title="Santo Domingo STD departures">Santo Domingo STD</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-641?ts=1677072600000">T9641</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">22 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/std/departures" title="Santo Domingo STD departures">Santo Domingo STD</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-811?ts=1677072600000">T9811</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">23 February</td>
+                        <td class="timetable-status">Landed 14:37</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1677141540000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">23 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-314?ts=1677153600000">T9314</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">23 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-8609?ts=1677153600000">T98609</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">19:30</td>
+                        <td class="timetable-date">23 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-611?ts=1677166200000">T9611</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">19:30</td>
+                        <td class="timetable-date">23 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-821?ts=1677166200000">T9821</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">24 February</td>
+                        <td class="timetable-status">Landed 14:31</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1677227940000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">15:30</td>
+                        <td class="timetable-date">24 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-8609?ts=1677236400000">T98609</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">15:30</td>
+                        <td class="timetable-date">24 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-867?ts=1677236400000">T9867</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:50</td>
+                        <td class="timetable-date">25 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-352?ts=1677329400000">V0352</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:00</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Landed 13:01</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-821?ts=1677394800000">T9821</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Landed 14:50</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1677400740000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Landed 16:59</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-611?ts=1677418200000">T9611</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-821?ts=1677418200000">T9821</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">18:30</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-314?ts=1677420000000">T9314</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">18:45</td>
+                        <td class="timetable-date">26 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-8609?ts=1677420900000">T98609</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">10:00</td>
+                        <td class="timetable-date">27 February</td>
+                        <td class="timetable-status">Landed 09:48</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/mar/departures" title="Maracaibo MAR departures">Maracaibo MAR</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-621?ts=1677477600000">T9621</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">27 February</td>
+                        <td class="timetable-status">Landed 14:27</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1677487140000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">27 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-6401?ts=1677499200000">T96401</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">27 February</td>
+                        <td class="timetable-status">Landed 16:49</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-867?ts=1677499200000">T9867</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:30</td>
+                        <td class="timetable-date">28 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pzo/departures" title="Puerto Ordaz PZO departures">Puerto Ordaz PZO</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-390?ts=1677576600000">V0390</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:45</td>
+                        <td class="timetable-date">28 February</td>
+                        <td class="timetable-status">Landed 14:46</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1677573540000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:50</td>
+                        <td class="timetable-date">28 February</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-352?ts=1677588600000">V0352</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">15:40</td>
+                        <td class="timetable-date">01 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-350?ts=1677670800000">V0350</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">01 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-6401?ts=1677672000000">T96401</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">01 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-867?ts=1677672000000">T9867</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">01 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/std/departures" title="Santo Domingo STD departures">Santo Domingo STD</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-641?ts=1677677400000">T9641</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">01 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/std/departures" title="Santo Domingo STD departures">Santo Domingo STD</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-811?ts=1677677400000">T9811</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:46</td>
+                        <td class="timetable-date">02 March</td>
+                        <td class="timetable-status">Landed 14:39</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1677746520000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">02 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-314?ts=1677758400000">T9314</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">02 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-8609?ts=1677758400000">T98609</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">19:30</td>
+                        <td class="timetable-date">02 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-611?ts=1677771000000">T9611</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">19:30</td>
+                        <td class="timetable-date">02 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-821?ts=1677771000000">T9821</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">14:46</td>
+                        <td class="timetable-date">03 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1677832920000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">15:30</td>
+                        <td class="timetable-date">03 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-867?ts=1677841200000">T9867</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:46</td>
+                        <td class="timetable-date">04 March</td>
+                        <td class="timetable-status">Landed 14:35</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1677919320000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:50</td>
+                        <td class="timetable-date">04 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-352?ts=1677934200000">V0352</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">13:00</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Landed 12:45</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-821?ts=1677999600000">T9821</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:00</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-822?ts=1677999600000">T9822</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:46</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Landed 14:33</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1678005720000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-314?ts=1678017600000">T9314</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Landed 17:36</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-611?ts=1678023000000">T9611</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-821?ts=1678023000000">T9821</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">18:45</td>
+                        <td class="timetable-date">05 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-8609?ts=1678025700000">T98609</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">10:00</td>
+                        <td class="timetable-date">06 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/mar/departures" title="Maracaibo MAR departures">Maracaibo MAR</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-621?ts=1678082400000">T9621</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:46</td>
+                        <td class="timetable-date">06 March</td>
+                        <td class="timetable-status">Landed 14:37</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1678092120000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">06 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-6401?ts=1678104000000">T96401</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">06 March</td>
+                        <td class="timetable-status">Landed 15:50</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-867?ts=1678104000000">T9867</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">13:30</td>
+                        <td class="timetable-date">07 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pzo/departures" title="Puerto Ordaz PZO departures">Puerto Ordaz PZO</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-390?ts=1678181400000">V0390</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:46</td>
+                        <td class="timetable-date">07 March</td>
+                        <td class="timetable-status">Landed 14:41</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1678178520000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:50</td>
+                        <td class="timetable-date">07 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-352?ts=1678193400000">V0352</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">11:00</td>
+                        <td class="timetable-date">08 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/std/departures" title="Santo Domingo STD departures">Santo Domingo STD</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-811?ts=1678258800000">T9811</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">15:40</td>
+                        <td class="timetable-date">08 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Conviasa</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/v0-vcv-350?ts=1678275600000">V0350</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">08 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-867?ts=1678276800000">T9867</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">17:30</td>
+                        <td class="timetable-date">08 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/std/departures" title="Santo Domingo STD departures">Santo Domingo STD</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-641?ts=1678282200000">T9641</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">14:46</td>
+                        <td class="timetable-date">09 March</td>
+                        <td class="timetable-status">Landed 14:39</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pty/departures" title="Panama City PTY departures">Panama City PTY</a></td>
+                        <td class="timetable-airline">Copa Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/cm-cmp-251?ts=1678351320000">CM251</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">15:30</td>
+                        <td class="timetable-date">09 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/sdq/departures" title="Santo Domingo SDQ departures">Santo Domingo SDQ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-8609?ts=1678359600000">T98609</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">09 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-314?ts=1678363200000">T9314</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">16:30</td>
+                        <td class="timetable-date">09 March</td>
+                        <td class="timetable-status">Landed 15:29</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/puj/departures" title="Punta Cana PUJ departures">Punta Cana PUJ</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-8609?ts=1678363200000">T98609</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">19:30</td>
+                        <td class="timetable-date">09 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-611?ts=1678375800000">T9611</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-unknown">
+                        <td class="timetable-time">19:30</td>
+                        <td class="timetable-date">09 March</td>
+                        <td class="timetable-status">Unknown </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/pmv/departures" title="Porlamar PMV departures">Porlamar PMV</a></td>
+                        <td class="timetable-airline">Turpial Airlines</td>
+                        <td class="timetable-flight"><a target="_blank" href="/en/flight/t9-vtu-821?ts=1678375800000">T9821</a> </td>
+                    </tr>
+                    
+                
+            
+            
+                
+            
+        
+            
+                
+            
+            
+                <tr><td colspan="6">No flights</td></tr>
+            
+            
+            
+        </tbody>
