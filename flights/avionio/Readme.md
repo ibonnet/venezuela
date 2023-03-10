@@ -1,7 +1,7 @@
 <li>CCS: Simón Bolívar International Airport</li>
 <li>BLA: General José Antonio Anzoategui International Airport</li>
 <li>PMV: Santiago Marino International Airport Porlamar (PMV) arrivals timetable</li>
-<li>La Chinita International Airport</li>
+<li>MAR: La Chinita International Airport</li>
 <li>Josefa Camejo International Airport</li>
 <li>General Manuel Carlos Piar International Airport</li>
 <li>Alberto Carnevalli Airport</li>
