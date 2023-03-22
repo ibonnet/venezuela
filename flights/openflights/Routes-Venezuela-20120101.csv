@@ -1,0 +1,257 @@
+date,IATA,airline-ID,source-code,source-city,source-country, source-airport-id,destination-code,destination-city,destination-country, destination-airport-id, equipment
+01/01/2012,3P,5002,AUA,Aruba,Aruba,2895,LSP,Paraguana,Venezuela,2844,SH6
+01/01/2012,3P,5002,AUA,Aruba,Aruba,2895,MAR,Maracaibo,Venezuela,2848,SH6
+01/01/2012,7I,18944,AUA,Aruba,Aruba,2895,CCS,Caracas,Venezuela,2851,M83
+01/01/2012,7I,18944,AUA,Aruba,Aruba,2895,VLN,Valencia,Venezuela,2868,M83
+01/01/2012,8I,3534,AUA,Aruba,Aruba,2895,CCS,Caracas,Venezuela,2851,M82
+01/01/2012,8I,3534,AUA,Aruba,Aruba,2895,VLN,Valencia,Venezuela,2868,M82
+01/01/2012,9V,20004,AUA,Aruba,Aruba,2895,CCS,Caracas,Venezuela,2851,732
+01/01/2012,9V,20004,AUA,Aruba,Aruba,2895,MAR,Maracaibo,Venezuela,2848,732
+01/01/2012,G3,1790,AUA,Aruba,Aruba,2895,CCS,Caracas,Venezuela,2851,738
+01/01/2012,QL,1206,AUA,Aruba,Aruba,2895,CCS,Caracas,Venezuela,2851,D93
+01/01/2012,R7,622,AUA,Aruba,Aruba,2895,CCS,Caracas,Venezuela,2851,M80
+01/01/2012,DL,2009,ATL,Atlanta,USA,3682,CCS,Caracas,Venezuela,2851,757
+01/01/2012,9V,20004,BLA,Barcelona,Venezuela,2821,CCS,Caracas,Venezuela,2851,734 732
+01/01/2012,9V,20004,BLA,Barcelona,Venezuela,2821,MIA,Miami,USA,3576,734
+01/01/2012,9V,20004,BLA,Barcelona,Venezuela,2821,PMV,Porlamar,Venezuela,2850,732
+01/01/2012,9V,20004,BLA,Barcelona,Venezuela,2821,PTY,Panama,Panama,1871,734
+01/01/2012,9V,20004,BLA,Barcelona,Venezuela,2821,PZO,Guayana,Venezuela,2856,732
+01/01/2012,9V,20004,BLA,Barcelona,Venezuela,2821,VLN,Valencia,Venezuela,2868,732
+01/01/2012,QL,1206,BLA,Barcelona,Venezuela,2821,CCS,Caracas,Venezuela,2851,D93
+01/01/2012,R7,622,BLA,Barcelona,Venezuela,2821,CCS,Caracas,Venezuela,2851,M80 DC9
+01/01/2012,R7,622,BLA,Barcelona,Venezuela,2821,PZO,Guayana,Venezuela,2856,M80
+01/01/2012,R7,622,BLA,Barcelona,Venezuela,2821,VLN,Valencia,Venezuela,2868,M80
+01/01/2012,V0,1886,BLA,Barcelona,Venezuela,2821,CCS,Caracas,Venezuela,2851,ATR
+01/01/2012,9V,20004,BNS,Barinas,Venezuela,2822,CCS,Caracas,Venezuela,2851,732
+01/01/2012,V0,1886,BNS,Barinas,Venezuela,2822,CCS,Caracas,Venezuela,2851,CRJ ATR E90
+01/01/2012,7I,18944,BRM,Barquisimeto,Venezuela,2824,CUR,Curacao,Curacao,2897,M83 F50
+01/01/2012,R7,622,BRM,Barquisimeto,Venezuela,2824,CCS,Caracas,Venezuela,2851,DC9 M80
+01/01/2012,V0,1886,BRM,Barquisimeto,Venezuela,2824,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,V0,1886,BRM,Barquisimeto,Venezuela,2824,PMV,Porlamar,Venezuela,2850,E90
+01/01/2012,VH,9666,BRM,Barquisimeto,Venezuela,2824,CCS,Caracas,Venezuela,2851,M82 M80
+01/01/2012,AV,515,BOG,Bogota,Colombia,2709,CCS,Caracas,Venezuela,2851,320 330
+01/01/2012,CM,1889,BOG,Bogota,Colombia,2709,CCS,Caracas,Venezuela,2851,E90 73G
+01/01/2012,EQ,4863,BOG,Bogota,Colombia,2709,CCS,Caracas,Venezuela,2851,E70
+01/01/2012,V0,1886,BOG,Bogota,Colombia,2709,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,AR,412,EZE,Buenos Aires,Argentina,3988,CCS,Caracas,Venezuela,2851,340
+01/01/2012,V0,1886,EZE,Buenos Aires,Argentina,3988,CCS,Caracas,Venezuela,2851,330
+01/01/2012,V0,1886,CBS,Cabimas,Venezuela,\N,CCS,Caracas,Venezuela,2851,ATR
+01/01/2012,V0,1886,CAJ,Canaima,Venezuela,2830,PZO,Guayana,Venezuela,2856,320
+01/01/2012,7I,18944,CCS,Caracas,Venezuela,2851,AUA,Aruba,Aruba,2895,M83
+01/01/2012,7I,18944,CCS,Caracas,Venezuela,2851,CUR,Curacao,Curacao,2897,M83 F50
+01/01/2012,8I,3534,CCS,Caracas,Venezuela,2851,AUA,Aruba,Aruba,2895,M82
+01/01/2012,9V,20004,CCS,Caracas,Venezuela,2851,AUA,Aruba,Aruba,2895,732
+01/01/2012,9V,20004,CCS,Caracas,Venezuela,2851,BLA,Barcelona,Venezuela,2821,734 732
+01/01/2012,9V,20004,CCS,Caracas,Venezuela,2851,BNS,Barinas,Venezuela,2822,732
+01/01/2012,9V,20004,CCS,Caracas,Venezuela,2851,CUR,Curacao,Curacao,2897,732
+01/01/2012,9V,20004,CCS,Caracas,Venezuela,2851,MAR,Maracaibo,Venezuela,2848,732
+01/01/2012,9V,20004,CCS,Caracas,Venezuela,2851,MRD,Madrid,Spain,2849,F50
+01/01/2012,9V,20004,CCS,Caracas,Venezuela,2851,PZO,Guayana,Venezuela,2856,F50
+01/01/2012,9V,20004,CCS,Caracas,Venezuela,2851,VLV,Valera,Venezuela,2870,F50
+01/01/2012,AA,24,CCS,Caracas,Venezuela,2851,DFW,Dallas,USA,3670,738
+01/01/2012,AA,24,CCS,Caracas,Venezuela,2851,JFK,New York,USA,3797,757 738
+01/01/2012,AA,24,CCS,Caracas,Venezuela,2851,MIA,Miami,USA,3576,757 763 738
+01/01/2012,AA,24,CCS,Caracas,Venezuela,2851,SJU,San Juan,USA,2890,738
+01/01/2012,AF,137,CCS,Caracas,Venezuela,2851,CDG,Paris,France,1382,332
+01/01/2012,AM,321,CCS,Caracas,Venezuela,2851,MEX,Mexico,Mexico,1824,737
+01/01/2012,AR,412,CCS,Caracas,Venezuela,2851,EZE,Buenos Aires,Argentina,3988,340
+01/01/2012,AV,515,CCS,Caracas,Venezuela,2851,BOG,Bogota,Colombia,2709,320 330
+01/01/2012,AV,515,CCS,Caracas,Venezuela,2851,LIM,Lima,Peru,2789,E90
+01/01/2012,AZ,596,CCS,Caracas,Venezuela,2851,FCO,Rome,Italy,1555,330
+01/01/2012,CM,1889,CCS,Caracas,Venezuela,2851,BOG,Bogota,Colombia,2709,73G E90
+01/01/2012,CM,1889,CCS,Caracas,Venezuela,2851,MDE,Medellin,Colombia,2745,E90
+01/01/2012,CM,1889,CCS,Caracas,Venezuela,2851,PTY,Panama,Panama,1871,73G
+01/01/2012,CU,1936,CCS,Caracas,Venezuela,2851,HAV,Habana,Cuba,1909,T20 320 A58 319
+01/01/2012,EQ,4863,CCS,Caracas,Venezuela,2851,BOG,Bogota,Colombia,2709,E70
+01/01/2012,G3,1790,CCS,Caracas,Venezuela,2851,AUA,Aruba,Aruba,2895,738
+01/01/2012,G3,1790,CCS,Caracas,Venezuela,2851,GRU,Sao Paulo,Brazil,2564,738
+01/01/2012,G3,1790,CCS,Caracas,Venezuela,2851,PUJ,Punta Cana,Republica Dominicana,1760,738
+01/01/2012,IB,2822,CCS,Caracas,Venezuela,2851,MAD,Madrid,Spain,1229,333
+01/01/2012,JJ,4867,CCS,Caracas,Venezuela,2851,GRU,Sao Paulo,Brazil,2564,320
+01/01/2012,LA,3200,CCS,Caracas,Venezuela,2851,GYE,Guayaquil,Ecuador,2673,763
+01/01/2012,LA,3200,CCS,Caracas,Venezuela,2851,LIM,Lima,Peru,2789,319
+01/01/2012,LA,3200,CCS,Caracas,Venezuela,2851,MIA,Miami,USA,3576,763
+01/01/2012,LA,3200,CCS,Caracas,Venezuela,2851,SCL,Santiago de Chile,Chile,2650,763
+01/01/2012,LH,3320,CCS,Caracas,Venezuela,2851,FRA,Frankfurt,Germany,340,333
+01/01/2012,QL,1206,CCS,Caracas,Venezuela,2851,AUA,Aruba,Aruba,2895,D93
+01/01/2012,QL,1206,CCS,Caracas,Venezuela,2851,BLA,Barcelona,Venezuela,2821,D93
+01/01/2012,QL,1206,CCS,Caracas,Venezuela,2851,MAR,Maracaibo,Venezuela,2848,D93
+01/01/2012,QL,1206,CCS,Caracas,Venezuela,2851,PMV,Porlamar,Venezuela,2850,D93
+01/01/2012,QL,1206,CCS,Caracas,Venezuela,2851,STD,Santo Domingo de Tachira,Venezuela,2861,D93
+01/01/2012,QL,1206,CCS,Caracas,Venezuela,2851,VIG,El Vigia,Venezuela,6072,D93
+01/01/2012,R7,622,CCS,Caracas,Venezuela,2851,AUA,Aruba,Aruba,2895,M80
+01/01/2012,R7,622,CCS,Caracas,Venezuela,2851,BLA,Barcelona,Venezuela,2821,M80 DC9
+01/01/2012,R7,622,CCS,Caracas,,2851,BRM,Barquisimeto,Venezuela,2824,DC9
+01/01/2012,R7,622,CCS,Caracas,Venezuela,2851,LSP,Paraguana,Venezuela,2844,DC9
+01/01/2012,R7,622,CCS,Caracas,Venezuela,2851,MAR,Maracaibo,Venezuela,2848,DC9 M80
+01/01/2012,R7,622,CCS,Caracas,Venezuela,2851,MUN,Maturin,Venezuela,2852,DC9
+01/01/2012,R7,622,CCS,Caracas,Venezuela,2851,PMV,Porlamar,Venezuela,2850,M80 DC9
+01/01/2012,R7,622,CCS,Caracas,Venezuela,2851,PZO,Guayana,Venezuela,2856,DC9 M80
+01/01/2012,R7,622,CCS,Caracas,Venezuela,2851,STD,Santo Domingo de Tachira,Venezuela,2861,M80 DC9
+01/01/2012,S3,4735,CCS,Caracas,Venezuela,2851,MIA,Miami,USA,3576,767 757
+01/01/2012,S3,4735,CCS,Caracas,Venezuela,2851,PTY,Panama,Panama,1871,757
+01/01/2012,S3,4735,CCS,Caracas,Venezuela,2851,TFN,Tenerife,Spain,1057,767
+01/01/2012,TP,4869,CCS,Caracas,Venezuela,2851,FNC,Madeira,Portugal,4091,332
+01/01/2012,TP,4869,CCS,Caracas,Venezuela,2851,LIS,Lisbon,Portugal,1638,332
+01/01/2012,TP,4869,CCS,Caracas,Venezuela,2851,OPO,Porto,Portugal,1636,332
+01/01/2012,UX,90,CCS,Caracas,Venezuela,2851,MAD,Madrid,Spain,1229,332
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,BLA,Barcelona,Venezuela,2821,ATR
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,BNS,Barinas,Venezuela,2822,CRJ ATR E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,BOG,Bogota,Colombia,2709,E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,BRM,Barquisimeto,Venezuela,2824,E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,CBS,Cabimas,Venezuela,\N,ATR
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,CUM,Cumana,Venezuela,2835,E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,CZE,Coro,Venezuela,2833,E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,EZE,Buenos Aires,Argentina,3988,330
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,HAV,Habana,Cuba,1909,E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,LFR,La Fria,Venezuela,2846,CRJ
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,LSP,Paraguana,Venezuela,2844,E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,MAD,Madrid,Spain,1229,330
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,MAR,Maracaibo,Venezuela,2848,E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,MRD,Madrid,Spain,2849,ATR
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,MUN,Maturin,Venezuela,2852,E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,PMV,Porlamar,Venezuela,2850,E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,PTY,Panama,Panama,1871,CRJ E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,PYH,Puerto Ayacucho,Venezuela,2853,E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,PZO,Guayana,Venezuela,2856,E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,SOM,San Tome,Venezuela,2864,ATR E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,STD,Santo Domingo de Tachira,Venezuela,2861,E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,SVZ,San Antonio del Tachira,Venezuela,2858,CRJ
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,VIG,El Vigia,Venezuela,6072,E90
+01/01/2012,V0,1886,CCS,Caracas,Venezuela,2851,VLV,Valera,Venezuela,2870,ATR
+01/01/2012,VH,9666,CCS,Caracas,Venezuela,2851,BRM,Barquisimeto,Venezuela,2824,M82 M80
+01/01/2012,VH,9666,CCS,Caracas,Venezuela,2851,MAR,Maracaibo,Venezuela,2848,M80
+01/01/2012,VH,9666,CCS,Caracas,Venezuela,2851,MUN,Maturin,Venezuela,2852,M82 M80
+01/01/2012,VH,9666,CCS,Caracas,Venezuela,2851,PMV,Porlamar,Venezuela,2850,M80
+01/01/2012,VH,9666,CCS,Caracas,Venezuela,2851,PZO,Guayana,Venezuela,2856,M82 M80
+01/01/2012,V0,1886,CZE,Coro,Venezuela,2833,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,V0,1886,CUM,Cumana,Venezuela,2835,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,7I,18944,CUR,Curacao,Curacao,2897,BRM,Barquisimeto,Venezuela,2824,M83 F50
+01/01/2012,7I,18944,CUR,Curacao,Curacao,2897,CCS,Caracas,Venezuela,2851,M83 F50
+01/01/2012,7I,18944,CUR,Curacao,Curacao,2897,LSP,Paraguana,Venezuela,2844,F50
+01/01/2012,7I,18944,CUR,Curacao,Curacao,2897,MAR,Maracaibo,Venezuela,2848,M83
+01/01/2012,7I,18944,CUR,Curacao,Curacao,2897,VLN,Valencia,Venezuela,2868,M83
+01/01/2012,9V,20004,CUR,Curacao,Curacao,2897,CCS,Caracas,Venezuela,2851,732
+01/01/2012,AA,24,DFW,Dallas,USA,3670,CCS,Caracas,Venezuela,2851,738
+01/01/2012,QL,1206,VIG,El Vigia,Venezuela,6072,CCS,Caracas,Venezuela,2851,D93
+01/01/2012,V0,1886,VIG,El Vigia,Venezuela,6072,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,V0,1886,VIG,El Vigia,Venezuela,6072,PMV,Porlamar,Venezuela,2850,E90
+01/01/2012,LH,3320,FRA,Frankfurt,Germany,340,CCS,Caracas,Venezuela,2851,333
+01/01/2012,V0,1886,GEO,Georgetown,Guyana,4304,PZO,Guayana,Venezuela,2856,E90
+01/01/2012,V0,1886,GND,Grenada,Venezuela,2882,PMV,Porlamar,Venezuela,2850,E90
+01/01/2012,9V,20004,PZO,Guayana,Venezuela,2856,BLA,Barcelona,Venezuela,2821,732
+01/01/2012,9V,20004,PZO,Guayana,Venezuela,2856,CCS,Caracas,Venezuela,2851,F50
+01/01/2012,R7,622,PZO,Guayana,Venezuela,2856,BLA,Barcelona,Venezuela,2821,M80
+01/01/2012,R7,622,PZO,Guayana,Venezuela,2856,CCS,Caracas,Venezuela,2851,M80 DC9
+01/01/2012,R7,622,PZO,Guayana,Venezuela,2856,PMV,Porlamar,Venezuela,2850,M80
+01/01/2012,V0,1886,PZO,Guayana,Venezuela,2856,CAJ,Canaima,Venezuela,2830,320
+01/01/2012,V0,1886,PZO,Guayana,Venezuela,2856,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,V0,1886,PZO,Guayana,Venezuela,2856,GEO,Georgetown,Guayana,4304,E90
+01/01/2012,V0,1886,PZO,Guayana,Venezuela,2856,PMV,Porlamar,Venezuela,2850,E90
+01/01/2012,VH,9666,PZO,Guayana,Venezuela,2856,CCS,Caracas,Venezuela,2851,M82 M80
+01/01/2012,LA,3200,GYE,Guayaquil,Ecuador,2673,CCS,Caracas,Venezuela,2851,763
+01/01/2012,V0,1886,PZO,Guyana,Venezuela,2856,SNV,Santa Elena de Uairen,Venezuela,2860,CRJ
+01/01/2012,CU,1936,HAV,Habana,Cuba,1909,CCS,Caracas,Venezuela,2851,T20 320 A58 319
+01/01/2012,CU,1936,HAV,Habana,Cuba,1909,PMV,Porlamar,Venezuela,2850,A58
+01/01/2012,V0,1886,HAV,Habana,Cuba,1909,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,UA,5209,IAH,Houston,USA,3550,CCS,Caracas,Venezuela,2851,739
+01/01/2012,V0,1886,LFR,La Fria,Venezuela,2846,CCS,Caracas,Venezuela,2851,CRJ
+01/01/2012,AV,515,LIM,Lima,Peru,2789,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,LA,3200,LIM,Lima,Peru,2789,CCS,Caracas,Venezuela,2851,319
+01/01/2012,TP,4869,LIS,Lisbon,Portugal,1638,CCS,Caracas,Venezuela,2851,332
+01/01/2012,TP,4869,FNC,Madeira,Portugal,4091,CCS,Caracas,Venezuela,2851,332
+01/01/2012,9V,20004,MRD,Madrid,Spain,2849,CCS,Caracas,Venezuela,2851,F50
+01/01/2012,IB,2822,MAD,Madrid,Spain,1229,CCS,Caracas,Venezuela,2851,333
+01/01/2012,UX,90,MAD,Madrid,Spain,1229,CCS,Caracas,Venezuela,2851,332
+01/01/2012,V0,1886,MAD,Madrid,Spain,1229,CCS,Caracas,Venezuela,2851,330
+01/01/2012,V0,1886,MRD,Madrid,Spain,2849,CCS,Caracas,Venezuela,2851,ATR
+01/01/2012,V0,1886,MAO,Manaus,Brazil,2551,PMV,Porlamar,Venezuela,2850,E90
+01/01/2012,3P,5002,MAR,Maracaibo,Venezuela,2848,AUA,Aruba,Aruba,2895,SH6
+01/01/2012,7I,18944,MAR,Maracaibo,Venezuela,2848,CUR,Curacao,Curacao,2897,M83
+01/01/2012,9V,20004,MAR,Maracaibo,Venezuela,2848,AUA,Aruba,Aruba,2895,732
+01/01/2012,9V,20004,MAR,Maracaibo,Venezuela,2848,CCS,Caracas,Venezuela,2851,732
+01/01/2012,9V,20004,MAR,Maracaibo,Venezuela,2848,VLN,Valencia,Venezuela,2868,732
+01/01/2012,AA,24,MAR,Maracaibo,Venezuela,2848,MIA,Miami,USA,3576,757
+01/01/2012,CM,1889,MAR,Maracaibo,Venezuela,2848,PTY,Panama,Panama,1871,73G
+01/01/2012,QL,1206,MAR,Maracaibo,Venezuela,2848,CCS,Caracas,Venezuela,2851,D93
+01/01/2012,R7,622,MAR,Maracaibo,Venezuela,2848,CCS,Caracas,Venezuela,2851,M80 DC9
+01/01/2012,R7,622,MAR,Maracaibo,Venezuela,2848,VLN,Valencia,Venezuela,2868,M80
+01/01/2012,V0,1886,MAR,Maracaibo,Venezuela,2848,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,V0,1886,MAR,Maracaibo,Venezuela,2848,PBL,Puerto Cabello,Venezuela,2854,E90
+01/01/2012,V0,1886,MAR,Maracaibo,Venezuela,2848,PMV,Porlamar,Venezuela,2850,E90
+01/01/2012,VH,9666,MAR,Maracaibo,Venezuela,2848,CCS,Caracas,Venezuela,2851,M80
+01/01/2012,R7,622,MUN,Maturin,Venezuela,2852,CCS,Caracas,Venezuela,2851,DC9
+01/01/2012,V0,1886,MUN,Maturin,Venezuela,2852,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,V0,1886,MUN,Maturin,Venezuela,2852,PMV,Porlamar,Venezuela,2850,E90
+01/01/2012,VH,9666,MUN,Maturin,Venezuela,2852,CCS,Caracas,Venezuela,2851,M82 M80
+01/01/2012,CM,1889,MDE,Medellin,Colombia,2745,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,AM,321,MEX,Mexico,Mexico,1824,CCS,Caracas,Venezuela,2851,737
+01/01/2012,9V,20004,MIA,Miami,USA,3576,BLA,Barcelona,Venezuela,2821,734
+01/01/2012,AA,24,MIA,Miami,USA,3576,CCS,Caracas,Venezuela,2851,757 763 738
+01/01/2012,AA,24,MIA,Miami,USA,3576,MAR,Maracaibo,Venezuela,2848,757
+01/01/2012,LA,3200,MIA,Miami,USA,3576,CCS,Caracas,Venezuela,2851,763
+01/01/2012,S3,4735,MIA,Miami,USA,3576,CCS,Caracas,Venezuela,2851,767 757
+01/01/2012,AA,24,JFK,New York,USA,3797,CCS,Caracas,Venezuela,2851,757 738
+01/01/2012,9V,20004,PTY,Panama,Panama,1871,BLA,Barcelona,Venezuela,2821,734
+01/01/2012,AF,137,PTY,Panama,Panama,1871,CDG,Paris,France,1382,772
+01/01/2012,AV,515,PTY,Panama,Panama,1871,BOG,Bogota,Colombia,2709,319 73G 330 320
+01/01/2012,CM,1889,PTY,Panama,Panama,1871,BOG,Bogota,Colombia,2709,73G E90 738
+01/01/2012,CM,1889,PTY,Panama,Panama,1871,CCS,Caracas,Venezuela,2851,73G
+01/01/2012,CM,1889,PTY,Panama,Panama,1871,MAR,Maracaibo,Venezuela,2848,73G
+01/01/2012,CM,1889,PTY,Panama,Panama,1871,VLN,Valencia,Venezuela,2868,73G
+01/01/2012,S3,4735,PTY,Panama,Panama,1871,CCS,Caracas,Venezuela,2851,757
+01/01/2012,V0,1886,PTY,Panama,Panama,1871,CCS,Caracas,Venezuela,2851,CRJ E90
+01/01/2012,3P,5002,LSP,Paraguana,Venezuela,2844,AUA,Aruba,Aruba,2895,SH6
+01/01/2012,7I,18944,LSP,Paraguana,Venezuela,2844,CUR,Curacao,Curacao,2897,F50
+01/01/2012,R7,622,LSP,Paraguana,Venezuela,2844,CCS,Caracas,Venezuela,2851,DC9
+01/01/2012,V0,1886,LSP,Paraguana,Venezuela,2844,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,AF,137,CDG,Paris,France,1382,CCS,Caracas,Venezuela,2851,332
+01/01/2012,9V,20004,PMV,Porlamar,Venezuela,2850,BLA,Barcelona,Venezuela,2821,732
+01/01/2012,9V,20004,PMV,Porlamar,Venezuela,2850,CCS,Caracas,Venezuela,2851,732
+01/01/2012,CU,1936,PMV,Porlamar,Venezuela,2850,HAV,Habana,Cuba,1909,A58
+01/01/2012,QL,1206,PMV,Porlamar,Venezuela,2850,CCS,Caracas,Venezuela,2851,D93
+01/01/2012,QL,1206,PMV,Porlamar,Venezuela,2850,VLN,Valencia,Venezuela,2868,D93
+01/01/2012,R7,622,PMV,Porlamar,Venezuela,2850,CCS,Caracas,Venezuela,2851,M80 DC9
+01/01/2012,R7,622,PMV,Porlamar,Venezuela,2850,PZO,Guayana,Venezuela,2856,M80
+01/01/2012,V0,1886,PMV,Porlamar,Venezuela,2850,BRM,Barquisimeto,Venezuela,2824,E90
+01/01/2012,V0,1886,PMV,Porlamar,Venezuela,2850,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,V0,1886,PMV,Porlamar,Venezuela,2850,GND,Grenada,Grenada,2882,E90
+01/01/2012,V0,1886,PMV,Porlamar,Venezuela,2850,MAO,Manaus,Brazil,2551,E90
+01/01/2012,V0,1886,PMV,Porlamar,Venezuela,2850,MAR,Maracaibo,Venezuela,2848,E90
+01/01/2012,V0,1886,PMV,Porlamar,Venezuela,2850,MUN,Maturin,Venezuela,2852,E90
+01/01/2012,V0,1886,PMV,Porlamar,Venezuela,2850,PBL,Puerto Cabello,Venezuela,2854,E90
+01/01/2012,V0,1886,PMV,Porlamar,Venezuela,2850,POS,Trinidad y Tobago,Trinidad y Tobago,2902,E90
+01/01/2012,V0,1886,PMV,Porlamar,Venezuela,2850,PZO,Guayana,Venezuela,2856,E90
+01/01/2012,V0,1886,PMV,Porlamar,Venezuela,2850,STD,Santo Domingo de Tachira,Venezuela,2861,E90
+01/01/2012,V0,1886,PMV,Porlamar,Venezuela,2850,VIG,El Vigia,Venezuela,6072,E90
+01/01/2012,VH,9666,PMV,Porlamar,Venezuela,2850,CCS,Caracas,Venezuela,2851,M80
+01/01/2012,VH,9666,PMV,Porlamar,Venezuela,2850,VLN,Valencia,Venezuela,2868,M80
+01/01/2012,TP,4869,OPO,Porto,Portugal,1636,CCS,Caracas,Venezuela,2851,332
+01/01/2012,V0,1886,PYH,Puerto Ayacucho,Venezuela,2853,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,V0,1886,PBL,Puerto Cabello,Venezuela,2854,MAR,Maracaibo,Venezuela,2848,E90
+01/01/2012,V0,1886,PBL,Puerto Cabello,Venezuela,2854,PMV,Porlamar,Venezuela,2850,E90
+01/01/2012,G3,1790,PUJ,Punta Cana,Dominican Republic,1760,CCS,Caracas,Venezuela,2851,738
+01/01/2012,AZ,596,FCO,Rome,Italy,1555,CCS,Caracas,Venezuela,2851,330
+01/01/2012,V0,1886,SVZ,San Antonio del Tachira,Venezuela,2858,CCS,Caracas,Venezuela,2851,CRJ
+01/01/2012,AA,24,SJU,San Juan,USA,2890,CCS,Caracas,Venezuela,2851,738
+01/01/2012,V0,1886,SOM,San Tome,Venezuela,2864,CCS,Caracas,Venezuela,2851,ATR E90
+01/01/2012,V0,1886,SNV,Santa Elena de Uairen,Venezuela,2860,PZO,Guayana,Venezuela,2856,CRJ
+01/01/2012,LA,3200,SCL,Santiago de Chile,Chile,2650,CCS,Caracas,Venezuela,2851,763
+01/01/2012,QL,1206,STD,Santo Domingo de Tachira,Venezuela,2861,CCS,Caracas,Venezuela,2851,D93
+01/01/2012,R7,622,STD,Santo Domingo de Tachira,Venezuela,2861,CCS,Caracas,Venezuela,2851,M80 DC9
+01/01/2012,V0,1886,STD,Santo Domingo de Tachira,Venezuela,2861,CCS,Caracas,Venezuela,2851,E90
+01/01/2012,V0,1886,STD,Santo Domingo de Tachira,Venezuela,2861,PMV,Porlamar,Venezuela,2850,E90
+01/01/2012,G3,1790,GRU,Sao Paulo,Brazil,2564,CCS,Caracas,Venezuela,2851,738
+01/01/2012,JJ,4867,GRU,Sao Paulo,Brazil,2564,CCS,Caracas,Venezuela,2851,320
+01/01/2012,S3,4735,TFN,Tenerife,Spain,1057,CCS,Caracas,Venezuela,2851,767
+01/01/2012,BW,1663,POS,Trinidad y Tobago,Trinidad y Tobago,2902,CCS,Caracas,Venezuela,2851,ATR
+01/01/2012,V0,1886,POS,Trinidad y Tobago,Trinidad y Tobago,2902,GND,Grenada,Grenada,2882,E90
+01/01/2012,V0,1886,POS,Trinidad y Tobago,Trinidad y Tobago,2902,PMV,Porlamar,Venezuela,2850,E90
+01/01/2012,9V,20004,VLN,Valencia,Venezuela,2868,BLA,Barcelona,Venezuela,2821,732
+01/01/2012,9V,20004,VLN,Valencia,Venezuela,2868,MAR,Maracaibo,Venezuela,2848,732
+01/01/2012,QL,1206,VLN,Valencia,Venezuela,2868,PMV,Porlamar,Venezuela,2850,D93
+01/01/2012,R7,622,VLN,Valencia,Venezuela,2868,BLA,Barcelona,Venezuela,2821,M80
+01/01/2012,R7,622,VLN,Valencia,Venezuela,2868,MAR,Maracaibo,Venezuela,2848,M80
+01/01/2012,VH,9666,VLN,Valencia,Venezuela,2868,PMV,Porlamar,Venezuela,2850,M80
+01/01/2012,9V,20004,VLV,Valera,Venezuela,2870,CCS,Caracas,Venezuela,2851,F50
+01/01/2012,V0,1886,VLV,Valera,Venezuela,2870,CCS,Caracas,Venezuela,2851,ATR
