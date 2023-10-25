@@ -19,7 +19,8 @@
     <div id="chart"></div>
     <div class="tooltip"></div>
 
-    <script>
+
+        <script>
         // Load data from CSV file
         d3.csv("PrimariesResultsNYC.csv").then(data => {
             // Extract candidate names and table data
@@ -38,9 +39,10 @@
             const width = numTables * cellSize + padding;
             const height = numCandidates * cellSize + padding;
 
-            // Define a color scale for candidates
-            const colorScale = d3.scaleOrdinal(d3.schemeCategory10)
-                .domain(candidates);
+            // Define a color scale based on the number of votes
+            const maxVotes = d3.max(tableData.flat());
+            const colorScale = d3.scaleSequential(d3.interpolateOranges)
+                .domain([0, maxVotes]);
 
             const svg = d3.select("#chart")
                 .append("svg")
@@ -61,7 +63,7 @@
                 .attr("y", (d, i) => Math.floor(i / numTables) * cellSize)
                 .attr("width", cellSize)
                 .attr("height", cellSize)
-                .attr("fill", (d, i) => colorScale(candidates[Math.floor(i / numTables)]))
+                .attr("fill", d => colorScale(d))
                 .on("mouseover", (event, d, i) => {
                     const rowIndex = Math.floor(i / numTables);
                     const columnIndex = i % numTables;
@@ -102,7 +104,6 @@
                 .text(d => `Table ${d}`);
         });
     </script>
-    
     
     <div class="spacer"></div>
     
