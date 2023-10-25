@@ -1,0 +1,17 @@
+h1 {
+    font-family: "Tiempos Headline", "Georgia Adjusted", Georgia, serif;
+}
+
+h2 {
+    font-family: "Proxima Nova", sans-serif;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    font-weight: lighter;
+}
+
+body {
+    font-family: "Tiempos Text", "Georgia Adjusted", Georgia, serif;
+    color: white;
+
+}
