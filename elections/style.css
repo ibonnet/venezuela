@@ -16,14 +16,16 @@ body {
 
 }
 
-.bar {
-    fill: steelblue;
- }
 
-.bar:hover {
-    fill: orange;
-}
+        .bar {
+            fill: #FF5733;
+        }
 
-.axis-label {
-    font-size: 12px;
-}
+        .bar:hover {
+            fill: #EA4D2B;
+            opacity: 0.7;
+        }
+
+        .axis-label {
+            font-size: 12px;
+        }
