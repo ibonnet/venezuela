@@ -22,11 +22,12 @@ footer {
         }
 
         .bar {
-            fill: steelblue;
+            opacity: 1;
+            transition: opacity 0.2s;
         }
 
-        .bar:hover {
-            fill: orange;
+        .bar:not(:hover) {
+            opacity: 0.5;
         }
 
         .tooltip {
