@@ -27,7 +27,7 @@ footer {
         }
 
         .cell:hover {
-            fill: #EA4D2B;
+            opacity: .8;
         }
 
         .tooltip {
