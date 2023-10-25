@@ -37,7 +37,7 @@
             const xScale = d3.scaleBand()
                 .domain(data.map(d => d.Candidate))
                 .range([0, width])
-                .padding(0.5);
+                .padding(0.1);
 
             const yScale = d3.scaleLinear()
                 .domain([0, d3.max(data, d => +d["Number of votes"])])
@@ -78,8 +78,8 @@
             svg.append("text")
                 .attr("transform", "rotate(-90)")
                 .attr("x", -height / 2)
-                .attr("y", -margin.left)
-                .attr("dy", "1em")
+                .attr("y", -margin.left - 10)
+                .attr("dy", "2em")
                 .style("text-anchor", "middle")
                 .text("Number of Votes");
         });
