@@ -60,22 +60,47 @@
                 .attr("width", cellSize)
                 .attr("height", cellSize)
                 .attr("fill", d => colorScale(d))
-                .on("mouseover", (event, d) => {
-                    const rowIndex = Math.floor(event.y / cellSize);
-                    const columnIndex = Math.floor(event.x / cellSize);
+                .on("mouseover", (event, d, i) => {
+                    const rowIndex = Math.floor(i / numTables);
+                    const columnIndex = i % numTables;
                     const candidate = candidates[rowIndex];
                     const table = `Table ${columnIndex + 1}`;
-                    const votes = `Votes: ${d}`;
+                    const votesInTable = `Votes: ${d}`;
+                    const totalVotes = `Total: ${data[rowIndex][table]}`;
                     tooltip.style("display", "block");
-                    tooltip.html(`${candidate}<br>${table}<br>${votes}`)
+                    tooltip.html(`${candidate}<br>${table}<br>${votesInTable} (${totalVotes})`)
                         .style("left", (event.pageX + 10) + "px")
                         .style("top", (event.pageY - 20) + "px");
                 })
                 .on("mouseout", () => {
                     tooltip.style("display", "none");
                 });
+
+            // Add x-axis labels (candidate names)
+            svg.selectAll(".x-label")
+                .data(candidates)
+                .enter()
+                .append("text")
+                .attr("class", "x-label")
+                .attr("x", -5)
+                .attr("y", (d, i) => (i + 0.5) * cellSize)
+                .style("text-anchor", "end")
+                .attr("dy", "0.3em")
+                .text(d => d);
+
+            // Add y-axis labels (table numbers)
+            svg.selectAll(".y-label")
+                .data(d3.range(1, numTables + 1))
+                .enter()
+                .append("text")
+                .attr("class", "y-label")
+                .attr("x", (d, i) => (i + 0.5) * cellSize)
+                .attr("y", -5)
+                .style("text-anchor", "middle")
+                .text(d => `Table ${d}`);
         });
     </script>
+    
     
     <div class="spacer"></div>
     
