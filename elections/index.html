@@ -17,84 +17,75 @@
     </header>
 
 <div id="chart"></div>
-    
+
     <script>
-        // Data
-        const data = [
-            { Candidate: "Maria Corina Machado", "Number of votes": 2253825, "Percentage of votes": 92.35 },
-            { Candidate: "Carlos Prosperi", "Number of votes": 112523, "Percentage of votes": 4.61 },
-            { Candidate: "Delsa Solorzano", "Number of votes": 15340, "Percentage of votes": 0.63 },
-            { Candidate: "Andres Caleca", "Number of votes": 12837, "Percentage of votes": 0.53 },
-            { Candidate: "Cesar Perez Vivas", "Number of votes": 8181, "Percentage of votes": 0.34 },
-            { Candidate: "Andres Velasquez", "Number of votes": 5047, "Percentage of votes": 0.21 },
-            { Candidate: "Luis Farias", "Number of votes": 3384, "Percentage of votes": 0.14 },
-            { Candidate: "Gloria Pinho", "Number of votes": 2876, "Percentage of votes": 0.12 }
-        ];
+        // Load data from CSV file
+        d3.csv("PrimariesResults.csv").then(data => {
+            // Create the SVG container
+            const margin = { top: 20, right: 20, bottom: 50, left: 40 };
+            const width = 800 - margin.left - margin.right;
+            const height = 400 - margin.top - margin.bottom;
 
-        // Create the SVG container
-        const margin = { top: 20, right: 20, bottom: 50, left: 40 };
-        const width = 800 - margin.left - margin.right;
-        const height = 400 - margin.top - margin.bottom;
+            const svg = d3.select("#chart")
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
-        const svg = d3.select("#chart")
-            .append("svg")
-            .attr("width", width + margin.left + margin.right)
-            .attr("height", height + margin.top + margin.bottom)
-            .append("g")
-            .attr("transform", `translate(${margin.left}, ${margin.top})`);
+            // Create scales
+            const xScale = d3.scaleBand()
+                .domain(data.map(d => d.Candidate))
+                .range([0, width])
+                .padding(0.1);
 
-        // Create scales
-        const xScale = d3.scaleBand()
-            .domain(data.map(d => d.Candidate))
-            .range([0, width])
-            .padding(0.1);
+            const yScale = d3.scaleLinear()
+                .domain([0, d3.max(data, d => +d["Number of votes"])])
+                .nice()
+                .range([height, 0]);
 
-        const yScale = d3.scaleLinear()
-            .domain([0, d3.max(data, d => d["Number of votes"])])
-            .nice()
-            .range([height, 0]);
+            // Create bars
+            svg.selectAll(".bar")
+                .data(data)
+                .enter()
+                .append("rect")
+                .attr("class", "bar")
+                .attr("x", d => xScale(d.Candidate))
+                .attr("y", d => yScale(+d["Number of votes"]))
+                .attr("width", xScale.bandwidth())
+                .attr("height", d => height - yScale(+d["Number of votes"]));
 
-        // Create bars
-        svg.selectAll(".bar")
-            .data(data)
-            .enter()
-            .append("rect")
-            .attr("class", "bar")
-            .attr("x", d => xScale(d.Candidate))
-            .attr("y", d => yScale(d["Number of votes"]))
-            .attr("width", xScale.bandwidth())
-            .attr("height", d => height - yScale(d["Number of votes"]));
+            // Create x-axis
+            svg.append("g")
+                .attr("transform", `translate(0, ${height})`)
+                .call(d3.axisBottom(xScale))
+                .selectAll(".tick text")
+                .attr("class", "axis-label")
+                .style("text-anchor", "end")
+                .attr("transform", "rotate(-45)");
 
-        // Create x-axis
-        svg.append("g")
-            .attr("transform", `translate(0, ${height})`)
-            .call(d3.axisBottom(xScale))
-            .selectAll(".tick text")
-            .attr("class", "axis-label")
-            .style("text-anchor", "end")
-            .attr("transform", "rotate(-45)");
+            // Create y-axis
+            svg.append("g")
+                .call(d3.axisLeft(yScale).ticks(6));
 
-        // Create y-axis
-        svg.append("g")
-            .call(d3.axisLeft(yScale).ticks(6));
+            // Add labels
+            svg.append("text")
+                .attr("x", width / 2)
+                .attr("y", height + margin.top + 30)
+                .style("text-anchor", "middle")
+                .text("Candidates");
 
-        // Add labels
-        svg.append("text")
-            .attr("x", width / 2)
-            .attr("y", height + margin.top + 30)
-            .style("text-anchor", "middle")
-            .text("Candidates");
-
-        svg.append("text")
-            .attr("transform", "rotate(-90)")
-            .attr("x", -height / 2)
-            .attr("y", -margin.left)
-            .attr("dy", "1em")
-            .style("text-anchor", "middle")
-            .text("Number of Votes");
-
+            svg.append("text")
+                .attr("transform", "rotate(-90)")
+                .attr("x", -height / 2)
+                .attr("y", -margin.left)
+                .attr("dy", "1em")
+                .style("text-anchor", "middle")
+                .text("Number of Votes");
+        });
     </script>
     
+    <div class="spacer"></div>
     
     <footer>
         © Copyright 2023. All Rights Reserved. | <a href="isabelbonnet.com" target="_blank" title="parsons">Isabel Bonnet</a>
