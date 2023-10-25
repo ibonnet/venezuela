@@ -21,8 +21,9 @@ footer {
   color: black;
         }
 
+
         .cell {
-            fill: #ccc;
+            stroke: #fff;
         }
 
         .cell:hover {
