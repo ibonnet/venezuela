@@ -21,20 +21,20 @@
 
     <script>
         // Load data from CSV file
-        d3.csv("PrimariesResults.csv").then(data => {
-            // Calculate the total number of votes
-            const totalVotes = d3.sum(data, d => +d["Number of votes"]);
+        d3.csv("PrimariesResultsNYC.csv").then(data => {
+            // Extract candidate names and table data
+            const candidates = data.map(d => d.Candidate);
+            const tableData = data.map(d => Object.values(d).slice(1).map(Number));
 
-            // Calculate percentages and assign colors
-            data.forEach(d => {
-                d.Percentage = (+d["Number of votes"] / totalVotes) * 100;
-                d.Color = d3.interpolateTurbo(d.Percentage / 100);
-            });
+            // Determine the number of tables and candidates
+            const numTables = tableData[0].length;
+            const numCandidates = candidates.length;
 
             // Create the SVG container
-            const margin = { top: 20, right: 20, bottom: 50, left: 40 };
-            const width = 800 - margin.left - margin.right;
-            const height = 400 - margin.top - margin.bottom;
+            const margin = { top: 20, right: 20, bottom: 50, left: 50 };
+            const cellSize = 20;
+            const width = numTables * cellSize;
+            const height = numCandidates * cellSize;
 
             const svg = d3.select("#chart")
                 .append("svg")
@@ -45,53 +45,35 @@
 
             const tooltip = d3.select(".tooltip");
 
-            // Create scales
-            const xScale = d3.scaleLinear()
-                .domain([0, 100])
-                .range([0, width]);
+            // Create a color scale for the heatmap
+            const colorScale = d3.scaleSequential(d3.interpolateOranges)
+                .domain([0, d3.max(tableData.flat())]);
 
-            // Create bars
-            svg.selectAll(".bar")
-                .data(data)
+            // Create the heatmap cells
+            const cells = svg.selectAll(".cell")
+                .data(tableData.flat())
                 .enter()
                 .append("rect")
-                .attr("class", "bar")
-                .attr("x", 0)
-                .attr("y", (d, i) => i * 30)
-                .attr("width", d => xScale(d.Percentage))
-                .attr("height", 20)
-                .attr("fill", d => d.Color)
+                .attr("class", "cell")
+                .attr("x", (d, i) => (i % numTables) * cellSize)
+                .attr("y", (d, i) => Math.floor(i / numTables) * cellSize)
+                .attr("width", cellSize)
+                .attr("height", cellSize)
+                .attr("fill", d => colorScale(d))
                 .on("mouseover", (event, d) => {
+                    const rowIndex = Math.floor(event.y / cellSize);
+                    const columnIndex = Math.floor(event.x / cellSize);
+                    const candidate = candidates[rowIndex];
+                    const table = `Table ${columnIndex + 1}`;
+                    const votes = `Votes: ${d}`;
                     tooltip.style("display", "block");
-                    tooltip.html(`Votes: ${d["Number of votes"]}`)
+                    tooltip.html(`${candidate}<br>${table}<br>${votes}`)
                         .style("left", (event.pageX + 10) + "px")
                         .style("top", (event.pageY - 20) + "px");
                 })
                 .on("mouseout", () => {
                     tooltip.style("display", "none");
                 });
-
-            // Add labels
-            svg.selectAll(".label")
-                .data(data)
-                .enter()
-                .append("text")
-                .attr("class", "label")
-                .attr("x", 10)
-                .attr("y", (d, i) => i * 30 + 14)
-                .style("text-anchor", "start")
-                .style("font-size", "14px")
-                .text(d => d.Candidate);
-
-            // Add legend
-            const legend = d3.select("#chart").append("div").attr("class", "legend");
-
-            data.forEach(d => {
-                legend.append("div")
-                    .style("background", d.Color)
-                    .text(`${d.Candidate} - ${d.Percentage.toFixed(2)}%`);
-            });
-
         });
     </script>
     
