@@ -10,12 +10,11 @@
   <body>
     <header>
       <title>2024 Presidential Elections in Venezuela</title>
-
-      <div class="spacer"></div>
         <div id="bg-headline">
           <h1>2024 Presidential Elections in Venezuela</h1></div>
     </header>
-
+    
+    <div class="spacer"></div>
     <div id="chart"></div>
     <div class="tooltip"></div>
 
@@ -92,7 +91,7 @@
                 .attr("dy", "0.3em")
                 .text(d => d);
 
-            // Add y-axis labels (table numbers)
+            // Add y-axis labels (table numbers) with diagonal text
             svg.selectAll(".y-label")
                 .data(d3.range(1, numTables + 1))
                 .enter()
@@ -101,18 +100,9 @@
                 .attr("x", (d, i) => (i + 0.5) * cellSize)
                 .attr("y", -5)
                 .style("text-anchor", "middle")
+                .attr("transform", "rotate(-45)")  // Rotate the text by -45 degrees
                 .text(d => `Table ${d}`);
 
-            // Add x-axis labels at the bottom with rotation
-            svg.append("g")
-                .selectAll(".axis-label")
-                .data(candidates)
-                .enter()
-                .append("text")
-                .attr("class", "axis-label")
-                .attr("x", (d, i) => (i + 0.5) * cellSize)
-                .attr("y", numCandidates * cellSize + 5) // Adjust the y position
-                .text(d => d);
         });
     </script>
     
