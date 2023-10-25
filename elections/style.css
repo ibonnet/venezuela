@@ -21,14 +21,6 @@ footer {
   color: black;
         }
 
-.cell {
-    stroke: #fff;
-}
-
-.cell:hover {
-    opacity: .8;
-}
-
 .tooltip {
     position: absolute;
     background: rgba(0, 0, 0, 0.8);
