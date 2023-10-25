@@ -15,95 +15,125 @@
     </header>
     
     <div class="spacer"></div>
-    <div id="chart"></div>
     <div class="tooltip"></div>
-
-
+    <div id="my_dataviz"></div>
 
     <script>
-        // Load data from CSV file
-        d3.csv("PrimariesResultsNYC.csv").then(data => {
-            // Extract candidate names and table data
-            const candidates = data.map(d => d.Candidate.replace(/"/g, ''));
-            const tableData = data.map(d => Object.values(d).slice(1).map(Number));
+      // set the dimensions and margins of the graph
+      const margin = { top: 80, right: 25, bottom: 30, left: 80 },
+        width = 600 - margin.left - margin.right,
+        height = 600 - margin.top - margin.bottom;
 
-            // Determine the number of tables and candidates
-            const numTables = tableData[0].length;
-            const numCandidates = candidates.length;
+      // append the svg object to the body of the page
+      const svg = d3.select("#my_dataviz")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
-            // Set the size of each cell and padding
-            const cellSize = 30;
-            const padding = 60; // Increased padding for left margin and x-axis labels
+      // Read the data
+      d3.csv("HeatmapPrimariesResultsNYC.csv").then(function (data) {
 
-            // Calculate the dimensions of the SVG container
-            const width = numTables * cellSize + padding;
-            const height = numCandidates * cellSize + padding;
+        // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
+        const myGroups = Array.from(new Set(data.map(d => d.Candidate)))
+        const myVars = Array.from(new Set(data.map(d => d.Table))
 
-            // Define a color scale based on the number of votes for each candidate
-            const colorScale = d3.scaleSequential(d3.interpolateOranges)
-                .domain([0, d3.max(tableData.flat())]);
+        // Build X scales and axis:
+        const x = d3.scaleBand()
+          .range([0, width])
+          .domain(myGroups)
+          .padding(0.05);
+        svg.append("g")
+          .style("font-size", 15)
+          .attr("transform", `translate(0, ${height})`)
+          .call(d3.axisBottom(x).tickSize(0))
+          .selectAll(".tick text")
+          .attr("transform", "rotate(-45)")
+          .style("text-anchor", "end");
 
-            const svg = d3.select("#chart")
-                .append("svg")
-                .attr("width", width)
-                .attr("height", height)
-                .append("g")
-                .attr("transform", `translate(${padding}, ${padding / 2})`);
+        // Build Y scales and axis:
+        const y = d3.scaleBand()
+          .range([height, 0])
+          .domain(myVars)
+          .padding(0.05);
+        svg.append("g")
+          .style("font-size", 15)
+          .call(d3.axisLeft(y).tickSize(0));
 
-            const tooltip = d3.select(".tooltip");
+        // Build color scale
+        const myColor = d3.scaleSequential()
+          .interpolator(d3.interpolateInferno)
+          .domain([0, d3.max(data, d => +d['Number of votes'])])
 
-            // Create the heatmap cells
-            const cells = svg.selectAll(".cell")
-                .data(tableData.flat())
-                .enter()
-                .append("rect")
-                .attr("class", "cell")
-                .attr("x", (d, i) => (i % numTables) * cellSize)
-                .attr("y", (d, i) => Math.floor(i / numTables) * cellSize)
-                .attr("width", cellSize)
-                .attr("height", cellSize)
-                .attr("fill", d => colorScale(d))
-                .on("mouseover", (event, d, i) => {
-                    const rowIndex = Math.floor(i / numTables);
-                    const columnIndex = i % numTables;
-                    const candidate = candidates[rowIndex];
-                    const table = `Table ${columnIndex + 1}`;
-                    const votesInTable = `Votes: ${tableData[rowIndex][columnIndex]}`;
-                    const totalVotes = `Total: ${data[rowIndex][table]}`;
-                    tooltip.style("display", "block");
-                    tooltip.html(`${candidate}<br>${table}<br>${votesInTable} (${totalVotes})`)
-                        .style("left", (event.pageX + 10) + "px")
-                        .style("top", (event.pageY - 20) + "px");
-                })
-                .on("mouseout", () => {
-                    tooltip.style("display", "none");
-                });
+        // Create a tooltip
+        const tooltip = d3.select("#my_dataviz")
+          .append("div")
+          .style("opacity", 0)
+          .attr("class", "tooltip")
+          .style("background-color", "white")
+          .style("border", "solid")
+          .style("border-width", "2px")
+          .style("border-radius", "5px")
+          .style("padding", "5px")
 
-            // Add x-axis labels (candidate names)
-            svg.selectAll(".x-label")
-                .data(candidates)
-                .enter()
-                .append("text")
-                .attr("class", "x-label")
-                .attr("x", -5)
-                .attr("y", (d, i) => (i + 0.5) * cellSize)
-                .style("text-anchor", "end")
-                .attr("dy", "0.3em")
-                .text(d => d);
+        // Three functions that change the tooltip when the user hovers, moves, or leaves a cell
+        const mouseover = function (event, d) {
+          tooltip
+            .style("opacity", 1)
+          d3.select(this)
+            .style("stroke", "black")
+            .style("opacity", 1)
+        }
+        const mousemove = function (event, d) {
+          tooltip
+            .html(`Number of Votes: ${d['Number of votes']}`)
+            .style("left", (event.x) + "px")
+            .style("top", (event.y) + "px")
+        }
+        const mouseleave = function (event, d) {
+          tooltip
+            .style("opacity", 0)
+          d3.select(this)
+            .style("stroke", "none")
+            .style("opacity", 0.8)
+        }
 
-            // Add y-axis labels (table numbers) with diagonal text
-            svg.selectAll(".y-label")
-                .data(d3.range(1, numTables + 1))
-                .enter()
-                .append("text")
-                .attr("class", "y-label")
-                .attr("x", (d, i) => (i + 0.5) * cellSize)
-                .attr("y", -5)
-                .style("text-anchor", "middle")
-                .attr("transform", "rotate(-45)")  // Rotate the text by -45 degrees
-                .text(d => `Table ${d}`);
+        // Add the squares
+        svg.selectAll()
+          .data(data, d => d.Candidate + ':' + d.Table)
+          .join("rect")
+          .attr("x", d => x(d.Candidate))
+          .attr("y", d => y(d.Table))
+          .attr("width", x.bandwidth())
+          .attr("height", y.bandwidth())
+          .style("fill", d => myColor(+d['Number of votes']))
+          .style("stroke-width", 4)
+          .style("stroke", "none")
+          .style("opacity", 0.8)
+          .on("mouseover", mouseover)
+          .on("mousemove", mousemove)
+          .on("mouseleave", mouseleave)
+      })
 
-        });
+      // Add title to graph
+      svg.append("text")
+        .attr("x", 0)
+        .attr("y", -50)
+        .attr("text-anchor", "left")
+        .style("font-size", "22px")
+        .text("Primary Election Results Heatmap");
+
+      // Add subtitle to graph
+      svg.append("text")
+        .attr("x", 0)
+        .attr("y", -20)
+        .attr("text-anchor", "left")
+        .style("font-size", "14px")
+        .style("fill", "grey")
+        .style("max-width", 400)
+        .text("Number of Votes by Candidate and Table");
+
     </script>
     
     <div class="spacer"></div>
