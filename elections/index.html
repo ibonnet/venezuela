@@ -34,7 +34,7 @@
 
             // Set the size of each cell and padding
             const cellSize = 30;
-            const padding = 40;
+            const padding = 60; // Increased padding for left margin and x-axis labels
 
             // Calculate the dimensions of the SVG container
             const width = numTables * cellSize + padding;
@@ -63,7 +63,7 @@
                 .attr("y", (d, i) => Math.floor(i / numTables) * cellSize)
                 .attr("width", cellSize)
                 .attr("height", cellSize)
-                .attr("fill", (d, i) => colorScale(tableData[Math.floor(i / numTables)][i % numTables]))
+                .attr("fill", d => colorScale(d))
                 .on("mouseover", (event, d, i) => {
                     const rowIndex = Math.floor(i / numTables);
                     const columnIndex = i % numTables;
@@ -102,6 +102,17 @@
                 .attr("y", -5)
                 .style("text-anchor", "middle")
                 .text(d => `Table ${d}`);
+
+            // Add x-axis labels at the bottom with rotation
+            svg.append("g")
+                .selectAll(".axis-label")
+                .data(candidates)
+                .enter()
+                .append("text")
+                .attr("class", "axis-label")
+                .attr("x", (d, i) => (i + 0.5) * cellSize)
+                .attr("y", numCandidates * cellSize + 5) // Adjust the y position
+                .text(d => d);
         });
     </script>
     
