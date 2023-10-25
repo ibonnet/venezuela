@@ -4,7 +4,7 @@ h1 {
 
 h2 {
     font-family: "Proxima Nova", sans-serif;
-    color: white;
+    color: black;
     font-size: 14px;
     text-align: center;
     font-weight: lighter;
@@ -12,7 +12,7 @@ h2 {
 
 body {
     font-family: "Tiempos Text", "Georgia Adjusted", Georgia, serif;
-    color: white;
+    color: black;
 
 }
 
@@ -28,4 +28,9 @@ body {
 
         .axis-label {
             font-size: 12px;
+        }
+
+footer {
+  font-size: 8px;
+  color: black;
         }
