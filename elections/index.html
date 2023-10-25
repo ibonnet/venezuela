@@ -38,6 +38,10 @@
             const width = numTables * cellSize + padding;
             const height = numCandidates * cellSize + padding;
 
+            // Define a color scale for candidates
+            const colorScale = d3.scaleOrdinal(d3.schemeCategory10)
+                .domain(candidates);
+
             const svg = d3.select("#chart")
                 .append("svg")
                 .attr("width", width)
@@ -46,10 +50,6 @@
                 .attr("transform", `translate(${padding}, ${padding / 2})`);
 
             const tooltip = d3.select(".tooltip");
-
-            // Create a color scale for the heatmap
-            const colorScale = d3.scaleSequential(d3.interpolateOranges)
-                .domain([0, d3.max(tableData.flat())]);
 
             // Create the heatmap cells
             const cells = svg.selectAll(".cell")
@@ -61,7 +61,7 @@
                 .attr("y", (d, i) => Math.floor(i / numTables) * cellSize)
                 .attr("width", cellSize)
                 .attr("height", cellSize)
-                .attr("fill", d => colorScale(d))
+                .attr("fill", (d, i) => colorScale(candidates[Math.floor(i / numTables)]))
                 .on("mouseover", (event, d, i) => {
                     const rowIndex = Math.floor(i / numTables);
                     const columnIndex = i % numTables;
