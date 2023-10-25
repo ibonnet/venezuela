@@ -21,13 +21,12 @@ footer {
   color: black;
         }
 
-        .bar {
-            opacity: 1;
-            transition: opacity 0.2s;
+        .cell {
+            fill: #ccc;
         }
 
-        .bar:not(:hover) {
-            opacity: 0.5;
+        .cell:hover {
+            fill: #EA4D2B;
         }
 
         .tooltip {
