@@ -16,15 +16,16 @@
           <h1>2024 Presidential Elections in Venezuela</h1></div>
     </header>
 
-<div id="chart"></div>
+    <div id="chart"></div>
+    <div class="tooltip"></div>
 
     <script>
         // Load data from CSV file
         d3.csv("PrimariesResults.csv").then(data => {
             // Create the SVG container
-            const margin = { top: 10, right: 20, bottom: 100, left: 200 };
-            const width = 500 - margin.left - margin.right;
-            const height = 200 - margin.top - margin.bottom;
+            const margin = { top: 20, right: 20, bottom: 50, left: 40 };
+            const width = 800 - margin.left - margin.right;
+            const height = 400 - margin.top - margin.bottom;
 
             const svg = d3.select("#chart")
                 .append("svg")
@@ -33,40 +34,38 @@
                 .append("g")
                 .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
-            // Create scales
-            const xScale = d3.scaleBand()
-                .domain(data.map(d => d.Candidate))
-                .range([0, width])
-                .padding(0.1);
+            const tooltip = d3.select(".tooltip");
 
-            const yScale = d3.scaleLinear()
-                .domain([0, d3.max(data, d => +d["Number of votes"])])
-                .nice()
-                .range([height, 0]);
+            // Create scales
+            const xScale = d3.scaleLinear()
+                .domain([0, d3.sum(data, d => +d["Number of votes"])])
+                .range([0, width]);
+
+            // Create a stack generator
+            const stack = d3.stack().keys(["Number of votes"]);
+
+            // Stack the data
+            const stackedData = stack(data);
 
             // Create bars
             svg.selectAll(".bar")
-                .data(data)
+                .data(stackedData)
                 .enter()
                 .append("rect")
                 .attr("class", "bar")
-                .attr("x", d => xScale(d.Candidate))
-                .attr("y", d => yScale(+d["Number of votes"]))
-                .attr("width", xScale.bandwidth())
-                .attr("height", d => height - yScale(+d["Number of votes"]));
-
-            // Create x-axis
-            svg.append("g")
-                .attr("transform", `translate(0, ${height})`)
-                .call(d3.axisBottom(xScale))
-                .selectAll(".tick text")
-                .attr("class", "axis-label")
-                .style("text-anchor", "end")
-                .attr("transform", "rotate(-45)");
-
-            // Create y-axis
-            svg.append("g")
-                .call(d3.axisLeft(yScale).ticks(6));
+                .attr("x", 0)
+                .attr("y", 0)
+                .attr("width", d => xScale(d[0][1]))
+                .attr("height", height)
+                .on("mouseover", (event, d) => {
+                    tooltip.style("display", "block");
+                    tooltip.html(d[0].data["Number of votes"])
+                        .style("left", (event.pageX + 10) + "px")
+                        .style("top", (event.pageY - 20) + "px");
+                })
+                .on("mouseout", () => {
+                    tooltip.style("display", "none");
+                });
 
             // Add labels
             svg.append("text")
@@ -76,12 +75,11 @@
                 .text("Candidates");
 
             svg.append("text")
-                .attr("transform", "rotate(-90)")
-                .attr("x", -height / 2)
-                .attr("y", -margin.left)
-                .attr("dy", "1em")
+                .attr("x", width / 2)
+                .attr("y", height / 2)
                 .style("text-anchor", "middle")
-                .text("Number of Votes");
+                .text("Interactive Stacked Bar Chart");
+
         });
     </script>
     
